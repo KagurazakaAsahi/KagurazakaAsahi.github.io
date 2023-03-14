@@ -1,0 +1,1111 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kagurazakaasahi.github.io</id>
+    <title>KA&#39;s Blog</title>
+    <subtitle>向之所欣，俯仰之间，已为陈迹</subtitle>
+    <icon>https://kagurazakaasahi.github.io/images/favicon.ico</icon>
+    <link href="https://kagurazakaasahi.github.io" />
+    <author>
+      <name>KagurazakaAsahi</name>
+    </author>
+    <updated>2023-03-12T07:00:27.000Z</updated>
+    <category term="blog" />
+    <category term="ACG" />
+    <category term="CS" />
+    <category term="博客" />
+    <category term="技术" />
+    <entry>
+        <id>https://kagurazakaasahi.github.io/ZYL-FATE-EMIYA/</id>
+        <title>ZYL-FATE-EMIYA</title>
+        <link rel="alternate" href="https://kagurazakaasahi.github.io/ZYL-FATE-EMIYA/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMWtzNDExOTdxNy8=&#34;&gt;【ZYL】FATE-EMIYA_哔哩哔哩_bilibili&lt;/span&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;
+&lt;div style=&#34;width:100%;height:0px;position:relative;padding-bottom:56.327%;&#34;&gt;&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=3410246&amp;bvid=BV1ks41197q7&amp;cid=5406104&amp;page=1&amp;high_quality=1&amp;danmaku=0&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;100%&#34; allowfullscreen style=&#34;width:100%;height:100%;position:absolute;&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;/p&gt;
+</content>
+        <updated>2023-03-12T07:00:27.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://kagurazakaasahi.github.io/%E5%86%8D%E6%AC%A1%E5%B0%9D%E8%AF%95AI%E7%94%BB%E5%9B%BE/</id>
+        <title>再次尝试AI画图</title>
+        <link rel="alternate" href="https://kagurazakaasahi.github.io/%E5%86%8D%E6%AC%A1%E5%B0%9D%E8%AF%95AI%E7%94%BB%E5%9B%BE/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
+&lt;p&gt;眼看就快到露娜 SAMA 的生日了，今年该搞什么活动呢🤔?&lt;/p&gt;
+&lt;p&gt;要不问问 &lt;code&gt;ChatGPT&lt;/code&gt; (╹ڡ╹ )&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E5%86%8D%E6%AC%A1%E5%B0%9D%E8%AF%95AI%E7%94%BB%E5%9B%BE/image-20230310085530191.png&#34; class=&#34;&#34; title=&#34;image-20230310085530191&#34;&gt;&lt;/p&gt;
+&lt;p&gt;emmm. &lt;code&gt;ChatGPT&lt;/code&gt;  真的给了靠谱的建议😋.&lt;/p&gt;
+&lt;p&gt;行，发贴肯定得发，顺便在咱博客也发一个，嘿嘿.&lt;/p&gt;
+&lt;p&gt;DIY 嘛，咱也没点这个技能点啊，麻烦啊......&lt;/p&gt;
+&lt;p&gt;嗯， &lt;code&gt;AI&lt;/code&gt; !&lt;/p&gt;
+&lt;p&gt;好像之前有个 &lt;code&gt;AI&lt;/code&gt;  画图的东西，刚泄露流出时咱还体验了一会.&lt;/p&gt;
+&lt;p&gt;要不用 &lt;code&gt;AI&lt;/code&gt;  画一个露娜 SAMA 的同人图.&lt;/p&gt;
+&lt;p&gt;说干就干！&lt;/p&gt;
+&lt;p&gt;研究了一天后......&lt;/p&gt;
+&lt;p&gt;牛 #@! 没想到这才半年没到就进化到这么强了！&lt;/p&gt;
+&lt;p&gt;还记得之前只是用官方泄露出的模型打写 &amp;quot;几个 tag&amp;quot;, 然后就在随缘抽卡了.&lt;/p&gt;
+&lt;p&gt;没想到现在已经有各种人物的模型了，发展真的快啊.&lt;/p&gt;
+&lt;h1 id=&#34;体验&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#体验&#34;&gt;#&lt;/a&gt; 体验&lt;/h1&gt;
+&lt;h2 id=&#34;配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置&#34;&gt;#&lt;/a&gt; 配置&lt;/h2&gt;
+&lt;h3 id=&#34;硬件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#硬件&#34;&gt;#&lt;/a&gt; 硬件&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;CPU--Intel 12400&lt;/li&gt;
+&lt;li&gt;GPU--Nvidia RTX 3070ti&lt;/li&gt;
+&lt;li&gt;内存 -- 光威天策 16G*2 3200MHz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#软件&#34;&gt;#&lt;/a&gt; 软件&lt;/h3&gt;
+&lt;p&gt;b 站 UP 主&lt;a href=&#34;https://space.bilibili.com/12566101/&#34;&gt;&lt;strong&gt;秋葉 aaaki&lt;/strong&gt;&lt;/a&gt; 提供的整合包&lt;/p&gt;
+&lt;h2 id=&#34;结果&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#结果&#34;&gt;#&lt;/a&gt; 结果&lt;/h2&gt;
+&lt;p&gt;咱自己跑了个露娜 SAMA 的&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3RhLmxhbnpvdWIuY29tL2lWQ0tGMHBxODEyZA==&#34;&gt;模型 v1.0&lt;/span&gt;, 目前还是可以看得下去的.&lt;/p&gt;
+&lt;p&gt;这里就挑几个展示一下吧:&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E5%86%8D%E6%AC%A1%E5%B0%9D%E8%AF%95AI%E7%94%BB%E5%9B%BE/image-20230310100640745.png&#34; class=&#34;&#34; title=&#34;image-20230310100640745&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E5%86%8D%E6%AC%A1%E5%B0%9D%E8%AF%95AI%E7%94%BB%E5%9B%BE/1.png&#34; class=&#34;&#34; title=&#34;00149-368563557-1girl,solo,masterpiece, best quality, looking_at_viewer,yorita yoshino, masterpiece, long hair,very long hair,Beautiful Lighting&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E5%86%8D%E6%AC%A1%E5%B0%9D%E8%AF%95AI%E7%94%BB%E5%9B%BE/2.png&#34; class=&#34;&#34; title=&#34;00138-3690938548-1girl,solo,masterpiece, best quality, looking_at_viewer,yorita yoshino, masterpiece, long hair,very long hair,Beautiful Lighting&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E5%86%8D%E6%AC%A1%E5%B0%9D%E8%AF%95AI%E7%94%BB%E5%9B%BE/3.png&#34; class=&#34;&#34; title=&#34;00065-1807956239-1girl, rose, dress, long_hair, white_rose, solo, wedding_dress, red_eyes, flower, veil, bridal_veil, white_dress, white_flower,&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E5%86%8D%E6%AC%A1%E5%B0%9D%E8%AF%95AI%E7%94%BB%E5%9B%BE/4.png&#34; class=&#34;&#34; title=&#34;00071-701901627-transparent_background, black_background, black_bow, solo, long_hair, looking_at_viewer, letterboxed, bow, braid, 1girl, smile,&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E5%86%8D%E6%AC%A1%E5%B0%9D%E8%AF%95AI%E7%94%BB%E5%9B%BE/6.png&#34; class=&#34;&#34; title=&#34;00074-29101092-transparent_background, black_background, black_bow, solo, long_hair, looking_at_viewer, letterboxed, bow, braid, 1girl, smile,&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E5%86%8D%E6%AC%A1%E5%B0%9D%E8%AF%95AI%E7%94%BB%E5%9B%BE/5.png&#34; class=&#34;&#34; title=&#34;00146-368563554-1girl,solo,masterpiece, best quality, looking_at_viewer,yorita yoshino, masterpiece, long hair,very long hair,Beautiful Lighting&#34;&gt;&lt;/p&gt;
+&lt;p&gt;不错，就是手部不太行，不过好像有解决办法.&lt;/p&gt;
+&lt;p&gt;咱再去研究一下，感谢 &lt;code&gt;AI&lt;/code&gt;  及各位大佬今年有十分丰富的图片惹😍!&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;更新:&lt;/p&gt;
+&lt;p&gt;玩了几天，姑且是知道怎么魔法吟唱了😋.&lt;/p&gt;
+&lt;p&gt;然后还发现了 800 个 G 的模型文件.&lt;/p&gt;
+&lt;p&gt;该死，之前还说两个 T 的固态硬盘就应该够了，&lt;/p&gt;
+&lt;p&gt;没想到这 AI 画图现在就有 800 个 G 的模型了，&lt;/p&gt;
+&lt;p&gt;之后还会变多😂,&lt;/p&gt;
+&lt;p&gt;估计又得去准备买硬盘了.&lt;/p&gt;
+&lt;p&gt;不过最近貌似固态硬盘还在跌价，3,4 个月前买的硬盘已经跌了 50 多了，亏死😭.&lt;/p&gt;
+&lt;p&gt;果然等等党永不败北🤡.&lt;/p&gt;
+&lt;p&gt;不同风格的露娜 SAMA:&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E5%86%8D%E6%AC%A1%E5%B0%9D%E8%AF%95AI%E7%94%BB%E5%9B%BE/7.png&#34; class=&#34;&#34; title=&#34;00787-2136232889-red eyes,long_hair, 1girl, braid, solo, looking_at_viewer, smile, long_sleeves, black_ribbon, blush, eyebrows_visible_through_ha&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E5%86%8D%E6%AC%A1%E5%B0%9D%E8%AF%95AI%E7%94%BB%E5%9B%BE/8.png&#34; class=&#34;&#34; title=&#34;00789-2136232891-red eyes,long_hair, 1girl, braid, solo, looking_at_viewer, smile, long_sleeves, black_ribbon, blush, eyebrows_visible_through_ha&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E5%86%8D%E6%AC%A1%E5%B0%9D%E8%AF%95AI%E7%94%BB%E5%9B%BE/9.png&#34; class=&#34;&#34; title=&#34;00777-3869664795-red eyes,long_hair, 1girl, braid, solo, looking_at_viewer, smile, long_sleeves, black_ribbon, blush, eyebrows_visible_through_ha&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E5%86%8D%E6%AC%A1%E5%B0%9D%E8%AF%95AI%E7%94%BB%E5%9B%BE/10.png&#34; class=&#34;&#34; title=&#34;00780-2702585418-red eyes,long_hair, 1girl, braid, solo, looking_at_viewer, smile, long_sleeves, black_ribbon, blush, eyebrows_visible_through_ha&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E5%86%8D%E6%AC%A1%E5%B0%9D%E8%AF%95AI%E7%94%BB%E5%9B%BE/11.png&#34; class=&#34;&#34; title=&#34;00804-2410226837-black thighhighs,red eyes,long_hair, 1girl, braid, solo, looking_at_viewer, smile, long_sleeves, black_ribbon, blush, eyebrows_v&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="日常" scheme="https://kagurazakaasahi.github.io/categories/daily/" />
+        <updated>2023-03-10T00:51:02.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://kagurazakaasahi.github.io/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/</id>
+        <title>评论系统修复</title>
+        <link rel="alternate" href="https://kagurazakaasahi.github.io/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
+&lt;p&gt;终于在最近咱的博客迎来了第一个评论 (之前只有几个玩的比较好的朋友知道咱的博客，但都没评论).&lt;/p&gt;
+&lt;p&gt;尽管之前测试过了评论系统，但是果然自己测试自己的东西怎么样都是对的，一到别人手上就一堆问题出来了😭.&lt;/p&gt;
+&lt;p&gt;问题的具体情况是评论后无法收到提醒，这可是一个大问题，毕竟谁也不想错过别人回复的评论.&lt;/p&gt;
+&lt;p&gt;那么咱就只能加急把这个问题修复一下了 (然后饭都没吃，一修就修了一中午 QAQ).&lt;/p&gt;
+&lt;h1 id=&#34;最终结果&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#最终结果&#34;&gt;#&lt;/a&gt; 最终结果&lt;/h1&gt;
+&lt;p&gt;修好了，但没完全好！&lt;/p&gt;
+&lt;p&gt;由于修复方式要调用国外软件 &lt;code&gt;api&lt;/code&gt; , 但该 &lt;code&gt;api&lt;/code&gt;  禁止国内 &lt;code&gt;ip&lt;/code&gt;  访问，因此国内无法正常使用.&lt;/p&gt;
+&lt;p&gt;于是，现在博客评论可以正常收到提醒，但是必须科学上网才能使用咱博客的评论系统.&lt;/p&gt;
+&lt;p&gt;不过，还是有解决办法的，就是使用反代理，但是咱嫌麻烦，摆了！&lt;/p&gt;
+&lt;p&gt;&lt;s&gt;等咱有心情时间再整吧，反正咱相信，看到咱博客的朋友科学上网应该不成问题吧😜.&lt;/s&gt;&lt;/p&gt;
+&lt;p&gt;换大陆特供版了，不需要科学上网了.&lt;/p&gt;
+&lt;h1 id=&#34;具体实现&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#具体实现&#34;&gt;#&lt;/a&gt; 具体实现&lt;/h1&gt;
+&lt;p&gt;本博客主题自带的评论系统是通过 &lt;code&gt;valine&lt;/code&gt;  及 &lt;code&gt;LeanCloud&lt;/code&gt;  实现的无后端评论系统.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;valine&lt;/code&gt;  已内置在主体内，因此只需正确配置 &lt;code&gt;LeanCloud&lt;/code&gt;  即可正常使用评论.&lt;/p&gt;
+&lt;h2 id=&#34;基础功能&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基础功能&#34;&gt;#&lt;/a&gt; 基础功能&lt;/h2&gt;
+&lt;h3 id=&#34;leancloud选择&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#leancloud选择&#34;&gt;#&lt;/a&gt;  &lt;code&gt;LeanCloud&lt;/code&gt;  选择&lt;/h3&gt;
+&lt;p&gt;由于懂得都懂的原因 &lt;code&gt;LeanCloud&lt;/code&gt;  分为国际版和中国大陆特供版.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;国际版：评论使用需要科学上网，但是无需给网址备案即可使用.&lt;/li&gt;
+&lt;li&gt;大陆特供版：需要手机号注册及网址备案，但国内可以正常访问使用.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;s&gt;这里，由于咱不想给网址备案等诸多原因，选择了国际版.&lt;/s&gt;&lt;/p&gt;
+&lt;p&gt;为了正常评论还是被迫选择了大陆特供版🤮.&lt;/p&gt;
+&lt;h3 id=&#34;注册leancloud&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#注册leancloud&#34;&gt;#&lt;/a&gt; 注册 &lt;code&gt;LeanCloud&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;然后找到控制台&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/image-20230308123013864.png&#34; class=&#34;&#34; title=&#34;image-20230308123013864&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/image-20230308123109776.png&#34; class=&#34;&#34; title=&#34;image-20230308123109776&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/image-20230308123142434.png&#34; class=&#34;&#34; title=&#34;image-20230308123142434&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;获取appid与appkey&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#获取appid与appkey&#34;&gt;#&lt;/a&gt; 获取 &lt;code&gt;AppID&lt;/code&gt;  与 &lt;code&gt;AppKey&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/image-20230308123315174.png&#34; class=&#34;&#34; title=&#34;image-20230308123315174&#34;&gt;&lt;/p&gt;
+&lt;p&gt;将上方 &lt;code&gt;AppID&lt;/code&gt;  与 &lt;code&gt;AppKey&lt;/code&gt;  填入相应位置&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;root\_config.shoka.yml&lt;/code&gt;  (如果根目录有 &lt;code&gt;_config.shoka.yml&lt;/code&gt;  文件的话)&lt;/p&gt;
+&lt;p&gt;或 &lt;code&gt;root\themes\shoka\_config.yml&lt;/code&gt;  (根目录无上述文件)&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/image-20230308122626669.png&#34; class=&#34;&#34; title=&#34;image-20230308122626669&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;note warning&#34;&gt;
+&lt;p&gt;国际版用户还需将 REST API 服务器地址填入  &lt;code&gt;serverURLs&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/image-20230308130633784.png&#34; class=&#34;&#34; title=&#34;image-20230308130633784&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;邮件提醒&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#邮件提醒&#34;&gt;#&lt;/a&gt; 邮件提醒&lt;/h2&gt;
+&lt;h3 id=&#34;部署valine-admin&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#部署valine-admin&#34;&gt;#&lt;/a&gt; 部署 &lt;code&gt;Valine-Admin&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;valine&lt;/code&gt;  自带的邮件提醒功能被删除了，故采用第三方功能.&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/image-20230308124201627.png&#34; class=&#34;&#34; title=&#34;image-20230308124201627&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/image-20230308124255670.png&#34; class=&#34;&#34; title=&#34;image-20230308124255670&#34;&gt;&lt;/p&gt;
+&lt;p&gt;参考&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3poYW9qdW4xOTk4L1ZhbGluZS1BZG1pbg==&#34;&gt; zhaojun1998/Valine-Admin: 一个 Valine 的拓展应用，用来增强 Valine 的邮件通知。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;这里需要填入 &lt;code&gt;https://github.com/zhaojun1998/Valine-Admin.git&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但是&lt;/strong&gt;，由于大佬源码 &lt;code&gt;node&lt;/code&gt;  包版本太低，部署会失败，因此需要修改源码内 &lt;code&gt;node&lt;/code&gt;  包版本，&lt;/p&gt;
+&lt;p&gt;这里不再赘述，可以直接使用咱修改后的源码.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;https://github.com/KagurazakaAsahi/Valine-Admin.git&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;填入后保存再次选择部署项目.&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/image-20230308124828342.png&#34; class=&#34;&#34; title=&#34;image-20230308124828342&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/image-20230308125039698.png&#34; class=&#34;&#34; title=&#34;image-20230308125039698&#34;&gt;&lt;/p&gt;
+&lt;p&gt;点击部署即可，第一次会稍慢.&lt;/p&gt;
+&lt;p&gt;部署完成后设置环境变量.&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/image-20230308125142178.png&#34; class=&#34;&#34; title=&#34;image-20230308125142178&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/image-20230308125002029.png&#34; class=&#34;&#34; title=&#34;image-20230308125002029&#34;&gt;&lt;/p&gt;
+&lt;p&gt;设置完后按上述设置再次部署一次即可！&lt;/p&gt;
+&lt;h3 id=&#34;添加定时任务&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#添加定时任务&#34;&gt;#&lt;/a&gt; 添加定时任务&lt;/h3&gt;
+&lt;p&gt;参考&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3poYW9qdW4xOTk4L1ZhbGluZS1BZG1pbi9ibG9iL21hc3Rlci8lRTklQUIlOTglRTclQkElQTclRTklODUlOEQlRTclQkQlQUUubWQjbGVhbmNsb3VkLSVFNCVCQyU5MSVFNyU5QyVBMCVFNyVBRCU5NiVFNyU5NSVBNQ==&#34;&gt; Valine-Admin / 高级配置&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;评论后台&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#评论后台&#34;&gt;#&lt;/a&gt; 评论后台&lt;/h2&gt;
+&lt;p&gt;如果你有一个自己的域名，那么可以将管理评论的功能解析到自己的域名上.&lt;/p&gt;
+&lt;h3 id=&#34;国际版&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#国际版&#34;&gt;#&lt;/a&gt; 国际版&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/image-20230308140219011.png&#34; class=&#34;&#34; title=&#34;image-20230308140219011&#34;&gt;&lt;/p&gt;
+&lt;p&gt;由于咱在阿里云购买了域名，故这里咱以阿里云为例，首先搜索云解析 DNS&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/image-20230308140641728.png&#34; class=&#34;&#34; title=&#34;image-20230308140641728&#34;&gt;&lt;/p&gt;
+&lt;p&gt;选择解析设置&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/image-20230308140659311.png&#34; class=&#34;&#34; title=&#34;image-20230308140659311&#34;&gt;&lt;/p&gt;
+&lt;p&gt;添加记录&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/image-20230308140748894.png&#34; class=&#34;&#34; title=&#34;image-20230308140748894&#34;&gt;&lt;/p&gt;
+&lt;p&gt;记录类型 &lt;code&gt;CNAME&lt;/code&gt; , 主机记录随意，之后访问的前缀，记录值为之前的 &lt;code&gt;CNAME&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/image-20230308140915670.png&#34; class=&#34;&#34; title=&#34;image-20230308140915670&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/image-20230308141121614.png&#34; class=&#34;&#34; title=&#34;image-20230308141121614&#34;&gt;&lt;/p&gt;
+&lt;p&gt;最后点击确认，即可通过上面的主机记录访问博客管理的后台了.&lt;/p&gt;
+&lt;p&gt;例如咱的是 &lt;code&gt;valine.kablog.top&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/image-20230308141312969.png&#34; class=&#34;&#34; title=&#34;image-20230308141312969&#34;&gt;&lt;/p&gt;
+&lt;p&gt;这里需要设置账号密码，&lt;/p&gt;
+&lt;p&gt;继续打开 &lt;code&gt;LeanCloud&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/image-20230308141531767.png&#34; class=&#34;&#34; title=&#34;image-20230308141531767&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在 &lt;code&gt;_User&lt;/code&gt;  栏添加一行， &lt;code&gt;username&lt;/code&gt;  填邮箱， &lt;code&gt;password&lt;/code&gt;  自己设定&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/image-20230308141716827.png&#34; class=&#34;&#34; title=&#34;image-20230308141716827&#34;&gt;&lt;/p&gt;
+&lt;p&gt;然后回到之前的评论管理网址输入账号密码即可登录了&lt;/p&gt;
+&lt;p&gt;界面如下:&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/image-20230308141327946.png&#34; class=&#34;&#34; title=&#34;image-20230308141327946&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;中国大陆特供版&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#中国大陆特供版&#34;&gt;#&lt;/a&gt; 中国大陆特供版&lt;/h3&gt;
+&lt;p&gt;与国际版类似，只是域名需要备案，这里咱就不多赘述了 (*￣3￣)╭&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;当然，也可以和我一样，放弃评论后台功能，直接在 &lt;code&gt;LeanCloud&lt;/code&gt;  内操作评论，这样就能中国大陆的用户无需科学上网也可使用评论功能.&lt;/p&gt;
+&lt;/div&gt;
+</content>
+        <category term="杂谈" scheme="https://kagurazakaasahi.github.io/categories/talk/" />
+        <category term="博客" scheme="https://kagurazakaasahi.github.io/categories/talk/blog/" />
+        <updated>2023-03-08T04:06:09.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://kagurazakaasahi.github.io/%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6%E7%9A%84%E9%80%89%E6%8B%A9/</id>
+        <title>博客框架的选择</title>
+        <link rel="alternate" href="https://kagurazakaasahi.github.io/%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6%E7%9A%84%E9%80%89%E6%8B%A9/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;博客框架的选择&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#博客框架的选择&#34;&gt;#&lt;/a&gt; 博客框架的选择&lt;/h1&gt;
+&lt;p&gt;网上众多的博客都是从零开始搭建的吗？&lt;/p&gt;
+&lt;p&gt;其实，在用框架之前一直以为对于网上常见的个人博客，&lt;/p&gt;
+&lt;p&gt;都是开发者自己从 0 开始一行行设计敲代码搭建的，&lt;/p&gt;
+&lt;p&gt;但是当自己深入了解之后发现，&lt;/p&gt;
+&lt;p&gt;其实大多数都是使用博客框架渲染出来的.&lt;/p&gt;
+&lt;p&gt;有了框架，极大地降低了建设个人博客的难度，&lt;/p&gt;
+&lt;p&gt;这里咱分享下对主流博客框架的个人理解及个人选择.&lt;/p&gt;
+&lt;h2 id=&#34;动态框架&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#动态框架&#34;&gt;#&lt;/a&gt; 动态框架&lt;/h2&gt;
+&lt;p&gt;所谓动态框架，就是用来生成动态页面的博客框架，代表框架有 &lt;code&gt;WordPress&lt;/code&gt; , &lt;code&gt;Halo&lt;/code&gt;  等&lt;/p&gt;
+&lt;p&gt;动态博客页面的生成更加于灵活，可以实现用户注册登录、评论等需要和数据库交互的内容。可以使用户体验更加优秀。但是动态博客的维护成本与服务器成本比较昂贵。&lt;/p&gt;
+&lt;h2 id=&#34;静态框架&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#静态框架&#34;&gt;#&lt;/a&gt; 静态框架&lt;/h2&gt;
+&lt;p&gt;与动态框架相对应，就是静态框架，代表框架有 &lt;code&gt;Hexo&lt;/code&gt; , &lt;code&gt;Jekyll&lt;/code&gt; , &lt;code&gt;hugo&lt;/code&gt;  等&lt;/p&gt;
+&lt;p&gt;由于没有数据库后台，静态博客灵活性稍显不足，但也因此更加稳定，维护简单.&lt;/p&gt;
+&lt;h2 id=&#34;简单对比&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简单对比&#34;&gt;#&lt;/a&gt; 简单对比&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;(纯) 静态网站&lt;/th&gt;
+&lt;th&gt;动态网站&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;功能&lt;/td&gt;
+&lt;td&gt;少，弱&lt;/td&gt;
+&lt;td&gt;多，强&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;源代码&lt;/td&gt;
+&lt;td&gt;完全公开&lt;/td&gt;
+&lt;td&gt;无法获取&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;工具&lt;/td&gt;
+&lt;td&gt;HTML+CSS+Javascript&lt;/td&gt;
+&lt;td&gt;ASP/PHP/JSP&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;数据库&lt;/td&gt;
+&lt;td&gt;不支持&lt;/td&gt;
+&lt;td&gt;支持&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;优点&lt;/td&gt;
+&lt;td&gt;无需系统实时生成 利于搜索引擎抓取 浏览打开速度快 安全，不易崩溃&lt;/td&gt;
+&lt;td&gt;交互性强 日常维护简单 结构更改方便&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;缺点&lt;/td&gt;
+&lt;td&gt;交互性弱 日常维护繁琐 结构更改较不方便&lt;/td&gt;
+&lt;td&gt;需要大量系统资源 不易被搜索引擎抓取 浏览打开速度慢 易遭受攻击&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;个人选择&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#个人选择&#34;&gt;#&lt;/a&gt; 个人选择&lt;/h2&gt;
+&lt;h3 id=&#34;踩坑经历&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#踩坑经历&#34;&gt;#&lt;/a&gt; 踩坑经历&lt;/h3&gt;
+&lt;p&gt;咱在简单的学完前端基础 ( &lt;code&gt;html&lt;/code&gt; , &lt;code&gt;CSS&lt;/code&gt; , &lt;code&gt;JS&lt;/code&gt; ) 后就直接手写了个静态网页 (累死咱了).&lt;/p&gt;
+&lt;p&gt;然后发现如果每篇文章都得改源码岂不累死？&lt;/p&gt;
+&lt;p&gt;然后经朋友推荐发现了 &lt;code&gt;WordPress&lt;/code&gt;  及其众多精美的主题，&lt;/p&gt;
+&lt;p&gt;直接入坑 &lt;code&gt;WordPress&lt;/code&gt; , 利用学生首月免费试用的阿里云服务器，&lt;/p&gt;
+&lt;p&gt;姑且是可以正常使用了.&lt;/p&gt;
+&lt;p&gt;但是，由于对 &lt;code&gt;PHP&lt;/code&gt; , &lt;code&gt;JSP&lt;/code&gt;  的不熟悉，导致无法对其作出适合自身的修改.&lt;/p&gt;
+&lt;p&gt;因此在试用的服务器到期后就弃置了.&lt;/p&gt;
+&lt;h3 id=&#34;最终选择&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#最终选择&#34;&gt;#&lt;/a&gt; 最终选择&lt;/h3&gt;
+&lt;p&gt;在寒假学习期间偶然发现 &lt;code&gt;Github&lt;/code&gt;  提供的 &lt;code&gt;Github Pages&lt;/code&gt;  可以用来当静态网站，&lt;/p&gt;
+&lt;p&gt;这时也恰好发现了 &lt;code&gt;Hexo&lt;/code&gt; , 当即开始筹备再建博客.&lt;/p&gt;
+&lt;p&gt;这次由于 &lt;code&gt;Hexo&lt;/code&gt;  是静态博客，仅需 &lt;code&gt;html&lt;/code&gt; , &lt;code&gt;CSS&lt;/code&gt; , &lt;code&gt;JS&lt;/code&gt;  就能进行修改，&lt;/p&gt;
+&lt;p&gt;咱终于可以使用所学的知识了 &lt;code&gt;\(@^0^@)/&lt;/code&gt; ,&lt;/p&gt;
+&lt;p&gt;并且，由于可以使用 &lt;code&gt;Github action&lt;/code&gt;  自动部署，&lt;/p&gt;
+&lt;p&gt;仅需对本地源码进行修改，提交至 &lt;code&gt;Github&lt;/code&gt; , 就能完成博客的更新，&lt;/p&gt;
+&lt;p&gt;十分方便.&lt;/p&gt;
+&lt;p&gt;并且，由于本地与云上都有储存源码，数据的安全性得到保障.&lt;/p&gt;
+&lt;h3 id=&#34;建站收获&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#建站收获&#34;&gt;#&lt;/a&gt; 建站收获&lt;/h3&gt;
+&lt;p&gt;纸上得来终觉浅，绝知此事要躬行.&lt;/p&gt;
+&lt;p&gt;在建设博客期间不断遭遇问题，解决问题，&lt;/p&gt;
+&lt;p&gt;对知识的掌握更加深刻了，&lt;/p&gt;
+&lt;p&gt;包括不限于页面布局， &lt;code&gt;CSS&lt;/code&gt;  美化， &lt;code&gt;Github&lt;/code&gt;  及 &lt;code&gt;Git&lt;/code&gt;  使用等知识.&lt;/p&gt;
+&lt;p&gt;果然，实践出真知啊！&lt;/p&gt;
+</content>
+        <category term="杂谈" scheme="https://kagurazakaasahi.github.io/categories/talk/" />
+        <category term="博客" scheme="https://kagurazakaasahi.github.io/categories/talk/blog/" />
+        <updated>2023-03-07T05:33:44.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://kagurazakaasahi.github.io/%E5%B1%8A%E3%81%8B%E3%81%AA%E3%81%84%E6%81%8B/</id>
+        <title>届かない恋</title>
+        <link rel="alternate" href="https://kagurazakaasahi.github.io/%E5%B1%8A%E3%81%8B%E3%81%AA%E3%81%84%E6%81%8B/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;p&gt;
+
+&lt;meting-js server=&#34;netease&#34; type=&#34;song&#34; id=&#34;28390033&#34;&gt;&lt;/meting-js&gt;
+
+&lt;/p&gt;
+&lt;p&gt;孤独なふりをしてるの&lt;/p&gt;
+&lt;p&gt;【为什么 要假装孤独寂寞？】&lt;/p&gt;
+&lt;p&gt;なぜだろう 気になっていた&lt;/p&gt;
+&lt;p&gt;【又为什么 令人放心不下】&lt;/p&gt;
+&lt;p&gt;気づけば いつのまにか&lt;/p&gt;
+&lt;p&gt;【不经意间 回过神来】&lt;/p&gt;
+&lt;p&gt;誰より 惹かれていた&lt;/p&gt;
+&lt;p&gt;【你比谁都引人注目】&lt;/p&gt;
+&lt;p&gt;どうすれば この心は 鏡に映るの&lt;/p&gt;
+&lt;p&gt;【如何才能 将这心意 在镜中映出？】&lt;/p&gt;
+&lt;p&gt;届かない恋をしていても&lt;/p&gt;
+&lt;p&gt;【继续这无言之爱】&lt;/p&gt;
+&lt;p&gt;映しだす日がくるかな&lt;/p&gt;
+&lt;p&gt;【总有一天让你明白】&lt;/p&gt;
+&lt;p&gt;ぼやけた答えが 見え始めるまでは&lt;/p&gt;
+&lt;p&gt;【模棱两可的回答 找到答案之前】&lt;/p&gt;
+&lt;p&gt;今もこの恋は 動き出せない&lt;/p&gt;
+&lt;p&gt;【这段爱情如今 没有未来】&lt;/p&gt;
+&lt;p&gt;初めて声をかけたら&lt;/p&gt;
+&lt;p&gt;【第一次听到那声音】&lt;/p&gt;
+&lt;p&gt;振り向いてくれたあの日&lt;/p&gt;
+&lt;p&gt;【蓦然回首的那一天】&lt;/p&gt;
+&lt;p&gt;あなたは 眩しすぎて&lt;/p&gt;
+&lt;p&gt;【你是如此的光彩夺目】&lt;/p&gt;
+&lt;p&gt;まっすぐ見れなかった&lt;/p&gt;
+&lt;p&gt;【让我的视线 无法逃离】&lt;/p&gt;
+&lt;p&gt;どうすれば その心に 私を写すの&lt;/p&gt;
+&lt;p&gt;【到底如何 将那心意 描绘给你？】&lt;/p&gt;
+&lt;p&gt;叶わない恋をしていても&lt;/p&gt;
+&lt;p&gt;【继续这无果之爱】&lt;/p&gt;
+&lt;p&gt;写しだす日がくるかな&lt;/p&gt;
+&lt;p&gt;【总有一天给出答案】&lt;/p&gt;
+&lt;p&gt;ぼやけた答えが 少しでも見えたら&lt;/p&gt;
+&lt;p&gt;【模棱两可的回答 少些说出口的话】&lt;/p&gt;
+&lt;p&gt;きっとこの恋は 動き始める&lt;/p&gt;
+&lt;p&gt;【这段爱情一定 有着未来】&lt;/p&gt;
+&lt;p&gt;どうすれば この心は 鏡に映るの&lt;/p&gt;
+&lt;p&gt;【如何才能 将这心意 在镜中映出？】&lt;/p&gt;
+&lt;p&gt;届かない恋をしていても&lt;/p&gt;
+&lt;p&gt;【继续这无言之爱】&lt;/p&gt;
+&lt;p&gt;映しだす日がくるかな&lt;/p&gt;
+&lt;p&gt;【总有一天让你明白】&lt;/p&gt;
+&lt;p&gt;ぼやけた答えが 見え始めるまでは&lt;/p&gt;
+&lt;p&gt;【模棱两可的回答 找到答案之前】&lt;/p&gt;
+&lt;p&gt;今もこの恋は 動き出せない&lt;/p&gt;
+&lt;p&gt;【这段爱情如今 没有未来】&lt;/p&gt;
+</content>
+        <category term="分享" scheme="https://kagurazakaasahi.github.io/categories/share/" />
+        <category term="心情" scheme="https://kagurazakaasahi.github.io/categories/share/%E5%BF%83%E6%83%85/" />
+        <updated>2023-03-04T10:00:03.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://kagurazakaasahi.github.io/ChatGPT/</id>
+        <title>ChatGPT</title>
+        <link rel="alternate" href="https://kagurazakaasahi.github.io/ChatGPT/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;p&gt;最近 ChatGPT 火出圈了，没想到连大学老师也对这玩意儿兴趣颇丰&lt;/p&gt;
+&lt;p&gt;正巧，咱在放寒假时也研究了下这玩意儿&lt;/p&gt;
+&lt;p&gt;这玩意儿大概就是用算法搞了个模型&lt;/p&gt;
+&lt;p&gt;然后不断喂数据给它处理&lt;/p&gt;
+&lt;p&gt;不断训练达到现在的 3.5 版本&lt;/p&gt;
+&lt;p&gt;首先，作为一个语言处理模型，它对文字的处理比较好&lt;/p&gt;
+&lt;p&gt;只要给个框架，一些关键词&lt;/p&gt;
+&lt;p&gt;就能生成一篇语句通顺的文章&lt;/p&gt;
+&lt;p&gt;其次它对英语的翻译比较好&lt;/p&gt;
+&lt;p&gt;而对日语，在我的测试下并不是十分好&lt;/p&gt;
+&lt;p&gt;然后，它也不是万能的&lt;/p&gt;
+&lt;p&gt;虽然它甚至有生成代码的这种离谱的功能&lt;/p&gt;
+&lt;p&gt;但是当提问一些专业的问题&lt;/p&gt;
+&lt;p&gt;它往往会回答错误的答案，而不是老实交代不知道&lt;/p&gt;
+&lt;p&gt;如文学作品的内容，作者等胡编乱造，论文亦是如此&lt;/p&gt;
+&lt;p&gt;最后，奇思妙想的网友们开发出了角色扮演对话功能 (当然，由于部分涉及成人内容，现官方已作出限制)&lt;/p&gt;
+&lt;p&gt;那么，如何使用 ChatGPT?&lt;/p&gt;
+&lt;p&gt;要使用 ChatGPT 需要几个条件&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;科学上网方式&lt;/li&gt;
+&lt;li&gt;国外手机号&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;先通过科学上网进入 ChatGPT 的&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jaGF0Lm9wZW5haS5jb20v&#34;&gt;官网&lt;/span&gt; (中国大陆的 ip 被禁止使用)&lt;/p&gt;
+&lt;p&gt;然后再通过邮箱注册账号&lt;/p&gt;
+&lt;p&gt;最后还需使用国外手机号接受一个验证码才能正常使用&lt;/p&gt;
+&lt;p&gt;比较困难的一步是国外手机号&lt;/p&gt;
+&lt;p&gt;一般免费接号平台可以白嫖，要么就只能上万能的淘宝了&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;然而，由于信息差的原因，总有人拿免费注册的账号来倒卖&lt;/p&gt;
+&lt;p&gt;果然利用信息差是真的赚钱啊，免费的东西卖个十几二十块，无本万利&lt;/p&gt;
+&lt;p&gt;不过，咱也整到几个共享账号，拿来玩玩足够了 (≧∇≦)ﾉ&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;账号:nr9egwvc@hotmail.com
+密码:YFU8Vby3tHd55fBD
+
+账号:suwpttvejqd@hotmail.com
+密码:QzyA5Sg22t6sQDk3
+
+账号:jydrybdgmq@hotmail.com
+密码:7tjisF96iiVP6Jh5
+
+账号:gbranqb@hotmail.com
+密码:pto37Hk9HYfqu5RW
+
+账号:egrftqsgt@hotmail.com
+密码:8z2EuME8X93qEGKn
+
+账号:mwqrnq@hotmail.com
+密码:a5j2qw6AbQ7pLANj
+
+账号:kgb7q4c4@hotmail.com
+密码:9U7Y5PQyXeH9WLHz
+
+账号:jekrhp@hotmail.com
+密码:rER7D9bkjHc9BHgd
+
+账号:qtqadcv@hotmail.com
+密码:sFp3c7CxiE6U66su
+
+账号:gsr3n6qntuu@hotmail.com
+密码:2iVA8n8AnoPAo3DD
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;note danger&#34;&gt;
+&lt;p&gt;该账号免费分享，请不要修改密码&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+&lt;p&gt;回到文章开头，由于大学老师也对 ChatGPT 感兴趣&lt;/p&gt;
+&lt;p&gt;咱直接在下课给老师玩了一会&lt;/p&gt;
+&lt;p&gt;狠狠地刷了一波存在感&lt;/p&gt;
+&lt;p&gt;希望老师期末多给咱点平时分吧 (想的真美&lt;/p&gt;
+&lt;p&gt;最后，还是想&lt;ruby&gt;感慨&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;bao&#39;yuan&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; 一下&lt;/p&gt;
+&lt;p&gt;对于咱这种喜欢高科技的人说&lt;/p&gt;
+&lt;p&gt;有时真的觉得美国等西方国家真的厉害&lt;/p&gt;
+&lt;p&gt;在科学发展这方面，至少在我了解计算机，网络，ai 的方面&lt;/p&gt;
+&lt;p&gt;他们是真的敢想敢干&lt;/p&gt;
+&lt;p&gt;而不像国内的公司只会抄袭垄断恰烂钱&lt;/p&gt;
+&lt;p&gt;当然，除了这些公司，房间里的大象，咱也不敢想，不敢问 (*￣3￣)╭&lt;/p&gt;
+</content>
+        <category term="日常" scheme="https://kagurazakaasahi.github.io/categories/daily/" />
+        <updated>2023-03-03T10:33:55.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://kagurazakaasahi.github.io/%E4%BF%AE%E7%94%B5%E8%84%91%E7%A2%8E%E7%A2%8E%E5%BF%B5/</id>
+        <title>修电脑碎碎念</title>
+        <link rel="alternate" href="https://kagurazakaasahi.github.io/%E4%BF%AE%E7%94%B5%E8%84%91%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;p&gt;开学考试完了，终于抽出点时间修电脑了&lt;/p&gt;
+&lt;p&gt;具体情况是无线网速只有原来的 1/6 了&lt;/p&gt;
+&lt;p&gt;很显然应该是无线网卡的锅&lt;/p&gt;
+&lt;p&gt;让我拆开电脑看看&lt;/p&gt;
+&lt;p&gt;好家伙，连接线断了&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E4%BF%AE%E7%94%B5%E8%84%91%E7%A2%8E%E7%A2%8E%E5%BF%B5/IMG_20230227_185147.jpg&#34; class=&#34;&#34; title=&#34;IMG_20230227_185147&#34;&gt;&lt;/p&gt;
+&lt;p&gt;不过通过查询资料发现网卡上有两个口 &lt;code&gt;main&lt;/code&gt;  和 &lt;code&gt;Aux&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;main&lt;/code&gt;  口是主要的收放信号口&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Aux&lt;/code&gt;  口是辅助用的&lt;/p&gt;
+&lt;p&gt;既然这样，手头又没有好的连接线，那就单独把好的线接在 &lt;code&gt;main&lt;/code&gt;  口吧&lt;/p&gt;
+&lt;p&gt;整完之后试了试，发现网速有之前的 1/2, 还凑合&lt;/p&gt;
+&lt;p&gt;但是蓝牙无法使用了&lt;/p&gt;
+&lt;p&gt;看来 &lt;code&gt;Aux&lt;/code&gt;  口还控制着蓝牙信号&lt;/p&gt;
+&lt;p&gt;等新买的转接线到了就可以完全修好吧&lt;/p&gt;
+&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;碎碎念&lt;/summary&gt;&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;果然机箱得买大的 &lt;code&gt;matx&lt;/code&gt;  甚至 &lt;code&gt;itx&lt;/code&gt;  拆装真的太累了&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;主板有自带 &lt;code&gt;WIFI&lt;/code&gt;  的尽量买自带 &lt;code&gt;WIFI&lt;/code&gt;  的，自己整网卡效果差还麻烦&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;劣质机箱风扇螺丝容易滑丝，强行使用，拆的时候就想哭了&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;买显卡一定要看机箱长度，我这装个显卡要拆一大半零件才能塞进去&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;hr /&gt;
+&lt;p&gt;更新:&lt;/p&gt;
+&lt;p&gt;换了根新的转接线，姑且算是修好了&lt;/p&gt;
+&lt;p&gt;终与可以达到 30MB/s 的下载速度了，在配上打折买的百度网盘会员&lt;/p&gt;
+&lt;p&gt;可以狠狠地下载了，怎么说也得在这个月下个 &lt;code&gt;10T&lt;/code&gt;  以上文件，值回会员费 (*￣3￣)╭&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E4%BF%AE%E7%94%B5%E8%84%91%E7%A2%8E%E7%A2%8E%E5%BF%B5/image-20230307142045386.png&#34; class=&#34;&#34; title=&#34;image-20230307142045386&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="日常" scheme="https://kagurazakaasahi.github.io/categories/daily/" />
+        <updated>2023-02-27T13:57:59.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://kagurazakaasahi.github.io/%E6%97%A5%E8%AF%AD%E4%B9%A6%E5%88%B0%E8%B4%A7%E4%BA%86/</id>
+        <title>日语书到货了</title>
+        <link rel="alternate" href="https://kagurazakaasahi.github.io/%E6%97%A5%E8%AF%AD%E4%B9%A6%E5%88%B0%E8%B4%A7%E4%BA%86/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;p&gt;从孔夫子旧书网上淘来了两本日语书，发现挺新的，甚至有一本还没开封ヾ (≧▽≦*) o, 比起买新书简直血赚&lt;/p&gt;
+&lt;p&gt;还有，这几天再忙上学期欠的期末考试，真的累啊 QAQ&lt;/p&gt;
+&lt;p&gt;不过英语 6 级分数出来了，虽然不是很高，但还是一次就过（￣︶￣）↗　, 就懒得去刷分了&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E6%97%A5%E8%AF%AD%E4%B9%A6%E5%88%B0%E8%B4%A7%E4%BA%86/IMG_20230217_190852.jpg&#34; class=&#34;&#34; title=&#34;IMG_20230217_190852&#34;&gt;&lt;/p&gt;
+&lt;p&gt;虽然就寒假稍微学了一点点，但还是立个 flag, 今年 12 月直接冲 N1 ψ(｀∇´)ψ&lt;/p&gt;
+</content>
+        <category term="日常" scheme="https://kagurazakaasahi.github.io/categories/daily/" />
+        <updated>2023-02-17T11:10:22.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://kagurazakaasahi.github.io/%E8%A7%A3%E5%86%B3git%E6%8A%A5%E9%94%99-ssh-connect-to-host-github-com-port-22-Connection-timed-out/</id>
+        <title>解决git报错:ssh:connect to host github.com port 22: Connection timed out</title>
+        <link rel="alternate" href="https://kagurazakaasahi.github.io/%E8%A7%A3%E5%86%B3git%E6%8A%A5%E9%94%99-ssh-connect-to-host-github-com-port-22-Connection-timed-out/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;p&gt;如题，git 使用中突然报错&lt;/p&gt;
+&lt;p&gt;ssh:connect to host &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2dpdGh1Yi5jb20=&#34;&gt;github.com&lt;/span&gt; port 22: Connection timed out&lt;/p&gt;
+&lt;p&gt;通过查阅各种资料，得知原因可能是由于电脑的防火墙或者其他网络原因导致 ssh 连接方式 端口 22 被封锁。&lt;/p&gt;
+&lt;h2 id=&#34;方法一抛弃ssh连接方式使用http连接-不建议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#方法一抛弃ssh连接方式使用http连接-不建议&#34;&gt;#&lt;/a&gt; 方法一：抛弃 ssh 连接方式，使用 http 连接。(不建议)&lt;/h2&gt;
+&lt;figure class=&#34;highlight cobol&#34;&gt;&lt;figcaption data-lang=&#34;cobol&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;git config --local -e&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;将配置文件的url &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; git@github&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;com&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;username&lt;span class=&#34;token operator&#34;&gt;/&lt;/span&gt;repo&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;git一行改为：url &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; https&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;/&lt;/span&gt;github&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;com&lt;span class=&#34;token operator&#34;&gt;/&lt;/span&gt;username&lt;span class=&#34;token operator&#34;&gt;/&lt;/span&gt;repo&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;git&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;方法二如果22号端口不行那就换一个端口&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#方法二如果22号端口不行那就换一个端口&#34;&gt;#&lt;/a&gt; &lt;strong&gt;方法二&lt;/strong&gt;：如果 22 号端口不行，那就换一个端口&lt;/h2&gt;
+&lt;h3 id=&#34;进入ssh文件夹&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#进入ssh文件夹&#34;&gt;#&lt;/a&gt; 进入.ssh 文件夹&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://img-blog.csdnimg.cn/bfd80697f4274b66b1c836c53ce16b6e.png&#34; alt=&#34;img&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;创建一个 config 文件&lt;/p&gt;
+&lt;p&gt;将下面的内容复制进去&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Host github.com
+User git
+Hostname ssh.github.com
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_rsa
+Port 443
+Host gitlab.com
+Hostname altssh.gitlab.com
+User git
+Port 443
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_rsa
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;保存退出&lt;/p&gt;
+&lt;p&gt;检查是否成功&lt;/p&gt;
+&lt;figure class=&#34;highlight typescript&#34;&gt;&lt;figcaption data-lang=&#34;typescript&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;ssh &lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;token constant&#34;&gt;T&lt;/span&gt; git&lt;span class=&#34;token decorator&#34;&gt;&lt;span class=&#34;token at operator&#34;&gt;@&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;github&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;com&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;这里要根据它的提示操作，有个地方要输入 yes&lt;/p&gt;
+&lt;p&gt;此时大功告成啦&lt;/p&gt;
+</content>
+        <category term="杂谈" scheme="https://kagurazakaasahi.github.io/categories/talk/" />
+        <category term="软件" scheme="https://kagurazakaasahi.github.io/categories/talk/softwore/" />
+        <updated>2023-02-11T06:19:33.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://kagurazakaasahi.github.io/CMD%E4%B8%AD%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8node%E5%8F%8Anpm/</id>
+        <title>CMD中无法使用node及npm</title>
+        <link rel="alternate" href="https://kagurazakaasahi.github.io/CMD%E4%B8%AD%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8node%E5%8F%8Anpm/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;无法使用node&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#无法使用node&#34;&gt;#&lt;/a&gt; 无法使用 node&lt;/h1&gt;
+&lt;p&gt;这个原因一般是环境配置有误&lt;/p&gt;
+&lt;p&gt;一般情况下，安装 &lt;code&gt;nodejs&lt;/code&gt;  会自动添加环境变量&lt;/p&gt;
+&lt;p&gt;如果出错应该先检查环境变量&lt;/p&gt;
+&lt;p&gt;然后将 Path 内 &lt;code&gt;nodejs&lt;/code&gt;  路径提至最前&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;CMD%E4%B8%AD%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8ndoe%E5%8F%8Anpm/image-20230211141523954.png&#34; alt=&#34;image-20230211141523954&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;无法使用npm&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#无法使用npm&#34;&gt;#&lt;/a&gt; 无法使用 npm&lt;/h1&gt;
+&lt;p&gt;这次安装 &lt;code&gt;nodejs&lt;/code&gt;  后，在 &lt;code&gt;cmd&lt;/code&gt;  中， &lt;code&gt;node -v&lt;/code&gt;  可以显示结果。&lt;/p&gt;
+&lt;p&gt;但是， &lt;code&gt;npm -v&lt;/code&gt;  显示为空。&lt;/p&gt;
+&lt;p&gt;最后重新卸载、安装 &lt;code&gt;nodejs&lt;/code&gt;  还是没有解决。&lt;/p&gt;
+&lt;p&gt;最后解决的方法是：发现在用户变量中，存在一个路径： &lt;code&gt;C:\Users\dname\AppData\Roaming\npm&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;应该是之前安装上去的一个文件，把这个 &lt;code&gt;npm&lt;/code&gt;  文件夹删除后，成功解决问题。&lt;/p&gt;
+</content>
+        <category term="杂谈" scheme="https://kagurazakaasahi.github.io/categories/talk/" />
+        <category term="软件" scheme="https://kagurazakaasahi.github.io/categories/talk/softwore/" />
+        <updated>2023-02-11T06:08:10.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://kagurazakaasahi.github.io/SMB%E4%BD%BF%E7%94%A8/</id>
+        <title>SMB使用</title>
+        <link rel="alternate" href="https://kagurazakaasahi.github.io/SMB%E4%BD%BF%E7%94%A8/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;遇到问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#遇到问题&#34;&gt;#&lt;/a&gt; 遇到问题&lt;/h1&gt;
+&lt;p&gt;电脑重装了系统，需要重新恢复 SMB 连接.&lt;/p&gt;
+&lt;p&gt;可是在共享一栏中找不到其他电脑&lt;/p&gt;
+&lt;h1 id=&#34;解决办法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解决办法&#34;&gt;#&lt;/a&gt; 解决办法&lt;/h1&gt;
+&lt;p&gt;1. 进入：控制面板 – 网络和  &lt;code&gt;Internet&lt;/code&gt;  – 网络和共享中心 – 高级共享设置，确保当前配置文件下的 “网络发现” 和 “文件和打印机共享” 均处于打开状态。&lt;/p&gt;
+&lt;p&gt;2. 右键点击 “此电脑”，选择 “属性”，并依次进入：高级电脑设置 – 计算机名，确保局域网内所有计算机的工作组名称一致。如不同，需要点击 “网络 ID” 来进行修改。&lt;/p&gt;
+&lt;p&gt;3. 右键点击 “此电脑”，选择 “管理”，并依次进入：服务和应用程序 – 服务，确保  &lt;code&gt;TCP/IP NetBIOS Helper&lt;/code&gt;  以及  &lt;code&gt;Computer Browser&lt;/code&gt;  服务处于正在运行状态。如显示为已停止，点击启动即可。此时可能发现服务项中竟然没有  &lt;code&gt;Computer Browser&lt;/code&gt;  ，此时需要向系统中添加 SMB 功能。&lt;/p&gt;
+&lt;p&gt;4. 进入：控制面板 – 程序 – 启用或关闭系统功能，选中  &lt;code&gt;SMB 1.0/CIFS&lt;/code&gt;  文件共享支持，并点击确定。不出意外的话会提示需要重启生效，在重启后局域网共享即可恢复正常。&lt;/p&gt;
+&lt;h1 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h1&gt;
+</content>
+        <category term="杂谈" scheme="https://kagurazakaasahi.github.io/categories/talk/" />
+        <category term="软件" scheme="https://kagurazakaasahi.github.io/categories/talk/softwore/" />
+        <updated>2023-02-11T05:52:11.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://kagurazakaasahi.github.io/hexo%E6%AD%A3%E7%A1%AE%E6%98%BE%E7%A4%BAtypora%E5%9B%BE%E7%89%87/</id>
+        <title>hexo正确显示typora图片</title>
+        <link rel="alternate" href="https://kagurazakaasahi.github.io/hexo%E6%AD%A3%E7%A1%AE%E6%98%BE%E7%A4%BAtypora%E5%9B%BE%E7%89%87/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;碎碎念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#碎碎念&#34;&gt;#&lt;/a&gt; 碎碎念&lt;/h1&gt;
+&lt;p&gt;在使用 typora 写博客原稿时发现一个 bug, 那就是图片经过 hexo 渲染显示不正确 (具体点说是太小)&lt;/p&gt;
+&lt;p&gt;于是上网搜寻解决方式， &lt;code&gt;bing&lt;/code&gt;  一下发现头几个都是 &lt;code&gt;CSDN&lt;/code&gt; , 说实话，我是真不喜欢这网站，广告的话还能用插件屏蔽。但最艹的是人均抄袭怪，千篇一律的不知从哪抄的解决办法，还 &lt;code&gt;tm&lt;/code&gt;  是错的 (准确的说是过时失效的方法).&lt;/p&gt;
+&lt;p&gt;于是乎，屏蔽网站 + 1, 拜拜了您嘞！&lt;/p&gt;
+&lt;h1 id=&#34;解决办法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解决办法&#34;&gt;#&lt;/a&gt; 解决办法&lt;/h1&gt;
+&lt;h2 id=&#34;结论&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#结论&#34;&gt;#&lt;/a&gt; 结论&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;post&lt;/code&gt;  的文章有解&lt;/li&gt;
+&lt;li&gt;新建网页 (即页面上方导航栏) 无解&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;具体实现&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#具体实现&#34;&gt;#&lt;/a&gt; 具体实现&lt;/h2&gt;
+&lt;h3 id=&#34;更改configyml文件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#更改configyml文件&#34;&gt;#&lt;/a&gt; 更改 &lt;code&gt;config.yml&lt;/code&gt;  文件&lt;/h3&gt;
+&lt;p&gt;如图所示，将值改为 true&lt;/p&gt;
+&lt;p&gt;这是官方的解决方法，在创建文章时创建一个同名资源文件夹，图片就存放在这&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/hexo%E6%AD%A3%E7%A1%AE%E6%98%BE%E7%A4%BAtypora%E5%9B%BE%E7%89%87/image-20230208131949029.png&#34; class=&#34;&#34; title=&#34;image-20230208131949029&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;更改typora设置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#更改typora设置&#34;&gt;#&lt;/a&gt; 更改 typora 设置&lt;/h3&gt;
+&lt;p&gt;打开 &lt;code&gt;文件&lt;/code&gt;  --&amp;gt; &lt;code&gt;偏好设置&lt;/code&gt;  --&amp;gt; &lt;code&gt;图像&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;将插入图片时改为复制到指定路径，即将图片复制到资源文件夹&lt;/p&gt;
+&lt;p&gt;路径及选项名如图所示&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/hexo%E6%AD%A3%E7%A1%AE%E6%98%BE%E7%A4%BAtypora%E5%9B%BE%E7%89%87/image-20230208131857786.png&#34; class=&#34;&#34; title=&#34;image-20230208131857786&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;安装插件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装插件&#34;&gt;#&lt;/a&gt; 安装插件&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;npm&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; hexo-asset-img &lt;span class=&#34;token parameter variable&#34;&gt;--save&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;从 &lt;code&gt;hexo5&lt;/code&gt;  起在网上大多转载的插件 &lt;code&gt;hexo-asset-image&lt;/code&gt;  已失效，仓库已 &lt;code&gt;archived&lt;/code&gt; , 所以如果安装了该插件的建议先卸载再安装上述插件&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;该插件是为了正确引用资源文件夹内的文件&lt;/p&gt;
+&lt;h2 id=&#34;等待完善&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#等待完善&#34;&gt;#&lt;/a&gt; 等待完善&lt;/h2&gt;
+&lt;p&gt;如结论所述&lt;/p&gt;
+&lt;p&gt;该方式只对 post 的文章生效&lt;/p&gt;
+&lt;p&gt;新建网页 (即页面上方导航栏) 需要修改插件 (咕咕咕)&lt;/p&gt;
+&lt;p&gt;目前解决方式是直接引用网络图片&lt;/p&gt;
+</content>
+        <category term="杂谈" scheme="https://kagurazakaasahi.github.io/categories/talk/" />
+        <category term="博客" scheme="https://kagurazakaasahi.github.io/categories/talk/blog/" />
+        <category term="hexo" scheme="https://kagurazakaasahi.github.io/tags/hexo/" />
+        <updated>2023-02-08T04:49:03.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://kagurazakaasahi.github.io/%E6%9C%AC%E5%9C%B0%E5%8A%A8%E7%94%BB%E8%A7%82%E8%B5%8F%E6%8C%87%E5%8C%97/</id>
+        <title>本地动画观赏指北</title>
+        <link rel="alternate" href="https://kagurazakaasahi.github.io/%E6%9C%AC%E5%9C%B0%E5%8A%A8%E7%94%BB%E8%A7%82%E8%B5%8F%E6%8C%87%E5%8C%97/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;为什么要在本地看动画&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#为什么要在本地看动画&#34;&gt;#&lt;/a&gt; 为什么要在本地看动画&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;线上动画清不够清晰&lt;/li&gt;
+&lt;li&gt;线上动画难以找到&lt;/li&gt;
+&lt;li&gt;线上动画集数不全&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;如何优雅的在本地看动画&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#如何优雅的在本地看动画&#34;&gt;#&lt;/a&gt; 如何优雅的在本地看动画&lt;/h1&gt;
+&lt;h2 id=&#34;选择工具&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#选择工具&#34;&gt;#&lt;/a&gt; 选择工具&lt;/h2&gt;
+&lt;h3 id=&#34;播放器解码器渲染器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#播放器解码器渲染器&#34;&gt;#&lt;/a&gt; 播放器 &amp;amp; 解码器 &amp;amp; 渲染器&lt;/h3&gt;
+&lt;p&gt;这里咱的推荐是&lt;strong&gt; PotPlayer&lt;/strong&gt; +  &lt;strong&gt;LAV Filters&lt;/strong&gt; + &lt;strong&gt;madVR&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;详情参考十分有名的压制组 VCB-Studio 的文章 [&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92Y2Itcy5jb20vYXJjaGl2ZXMvNzIyOA==&#34;&gt;VCB-Studio 科普教程 2.2] 基于 PotPlayer 和 madVR 的播放器教程（已更新 XySubFilter） | VCB-Studio&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;字幕字体加载&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#字幕字体加载&#34;&gt;#&lt;/a&gt; 字幕字体加载&lt;/h3&gt;
+&lt;p&gt;由于不同字幕组制作字幕时采用的字体不同，若使用你电脑上未安装的字体，那么就会显示默认字体 (一般是宋体), 这十分难受.&lt;/p&gt;
+&lt;p&gt;但是，我们不可能将所有字体安装到电脑内，一是体积较大 (60G), 二是在会写 word 时选择字体时选到崩溃 QAQ.&lt;/p&gt;
+&lt;p&gt;那么有什么解决办法吗？&lt;/p&gt;
+&lt;p&gt;有，那就是要用时安装，不用时卸载.&lt;/p&gt;
+&lt;p&gt;这么麻烦？&lt;/p&gt;
+&lt;p&gt;当然，有方便的程序！&lt;/p&gt;
+&lt;p&gt;就是 &lt;code&gt;FontLoaderSub&lt;/code&gt; , 将动画字幕拖入该程序，就会自动匹配并安装其目录下的字体文件，&lt;/p&gt;
+&lt;p&gt;当关闭该程序时会自动卸载字体，还原如初.&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/%E6%9C%AC%E5%9C%B0%E5%8A%A8%E7%94%BB%E8%A7%82%E8%B5%8F%E6%8C%87%E5%8C%97/image-20230307155317399.png&#34; class=&#34;&#34; title=&#34;image-20230307155317399&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;FontLoaderSub&#34; style=&#34;--block-color:#9d5b8b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly93d3RhLmxhbnpvdWIuY29tL2lxYVY5MHBqMnlrYg==&#34; data-background-image=&#34;/images/404.png&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly93d3RhLmxhbnpvdWIuY29tL2lxYVY5MHBqMnlrYg==&#34;&gt;FontLoaderSub&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;蓝奏云&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;超级字体整合包 XZ&#34; style=&#34;--block-color:#9d5b8b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly92Y2Itcy5jb20vYXJjaGl2ZXMvMTExNA==&#34; data-background-image=&#34;/images/404.png&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly92Y2Itcy5jb20vYXJjaGl2ZXMvMTExNA==&#34;&gt;超级字体整合包 XZ&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;动画所需最全字体&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;h3 id=&#34;动画管理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#动画管理&#34;&gt;#&lt;/a&gt; 动画管理&lt;/h3&gt;
+&lt;p&gt;咕咕咕......&lt;/p&gt;
+&lt;h2 id=&#34;动画下载&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#动画下载&#34;&gt;#&lt;/a&gt; 动画下载&lt;/h2&gt;
+&lt;p&gt;&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;天使动漫&#34; style=&#34;--block-color:#9d5b8b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly93d3cudHNkbTM5Lm5ldC9mb3J1bS5waHA=&#34; data-background-image=&#34;/images/404.png&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly93d3cudHNkbTM5Lm5ldC9mb3J1bS5waHA=&#34;&gt;天使动漫&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;以百度网盘为主BD-Rip分享&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;动漫花园&#34; style=&#34;--block-color:#9d5b8b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9kbWh5LmFub25la28uY29tLw==&#34; data-background-image=&#34;/images/404.png&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9kbWh5LmFub25la28uY29tLw==&#34;&gt;动漫花园&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;各大压制组,字幕组种子发布网站&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;
+</content>
+        <category term="杂谈" scheme="https://kagurazakaasahi.github.io/categories/talk/" />
+        <category term="ACG" scheme="https://kagurazakaasahi.github.io/categories/talk/acg/" />
+        <category term="ACG" scheme="https://kagurazakaasahi.github.io/tags/ACG/" />
+        <category term="动画" scheme="https://kagurazakaasahi.github.io/tags/%E5%8A%A8%E7%94%BB/" />
+        <category term="技巧" scheme="https://kagurazakaasahi.github.io/tags/%E6%8A%80%E5%B7%A7/" />
+        <updated>2023-02-07T06:57:48.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://kagurazakaasahi.github.io/Git%E4%BD%BF%E7%94%A8/</id>
+        <title>Git及Github使用</title>
+        <link rel="alternate" href="https://kagurazakaasahi.github.io/Git%E4%BD%BF%E7%94%A8/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h2 id=&#34;为什么使用git&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#为什么使用git&#34;&gt;#&lt;/a&gt; 为什么使用 Git&lt;/h2&gt;
+&lt;p&gt;在编写代码过程中，经常需要修改代码&lt;/p&gt;
+&lt;p&gt;并且创建不同版本&lt;/p&gt;
+&lt;p&gt;例如&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;第一版.cpp&lt;/li&gt;
+&lt;li&gt;第二版.cpp&lt;/li&gt;
+&lt;li&gt;第三版.cpp&lt;/li&gt;
+&lt;li&gt;最终版.cpp&lt;/li&gt;
+&lt;li&gt;最终版 2.0.cpp&lt;/li&gt;
+&lt;li&gt;最终版不修改版.cpp&lt;/li&gt;
+&lt;li&gt;......&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;但是，修改过程中难免会有不满意的地方&lt;/p&gt;
+&lt;p&gt;这时，需要回滚到未修改之前的状态&lt;/p&gt;
+&lt;p&gt;当代码数量少时可以使用撤回快捷键&lt;/p&gt;
+&lt;p&gt;但当数量太大时，这个操作就很鸡肋了&lt;/p&gt;
+&lt;p&gt;这时我们就要用上 Git 这个工具了&lt;/p&gt;
+&lt;p&gt;使用让 Git 帮助我们管理代码版本&lt;/p&gt;
+&lt;h2 id=&#34;git使用方法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#git使用方法&#34;&gt;#&lt;/a&gt; Git 使用方法&lt;/h2&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;如果初次接触 Git, 可以尝试在该网站&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZWFybmdpdGJyYW5jaGluZy5qcy5vcmcvP2xvY2FsZT16aF9DTg==&#34;&gt; Learn Git Branching&lt;/span&gt; 进行学习！&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;初始化&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#初始化&#34;&gt;#&lt;/a&gt; 初始化&lt;/h3&gt;
+&lt;p&gt;在任意目录下打开 Git bash&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; init&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;初始化出一片 &lt;code&gt;git&lt;/code&gt;  的暂存空间 (一个隐藏文件夹)&lt;/p&gt;
+&lt;h3 id=&#34;连接远程仓库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#连接远程仓库&#34;&gt;#&lt;/a&gt; 连接远程仓库&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; remote &lt;span class=&#34;token function&#34;&gt;add&lt;/span&gt; origin git@github.com:yourName/repositoryname.git&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; remote &lt;span class=&#34;token function&#34;&gt;add&lt;/span&gt; origin https://github.com/yourName/repositoryname.git&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h3 id=&#34;查看远程仓库信息&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#查看远程仓库信息&#34;&gt;#&lt;/a&gt; 查看远程仓库信息&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; remote &lt;span class=&#34;token parameter variable&#34;&gt;-v&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h3 id=&#34;从远程仓库拉取文件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#从远程仓库拉取文件&#34;&gt;#&lt;/a&gt; 从远程仓库拉取文件&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; pull origin&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h3 id=&#34;查看工作目录状态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#查看工作目录状态&#34;&gt;#&lt;/a&gt; 查看工作目录状态&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; status&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h3 id=&#34;将文件添加到暂存区&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#将文件添加到暂存区&#34;&gt;#&lt;/a&gt; 将文件添加到暂存区&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;add&lt;/span&gt; .//这里.代表所有文件&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h3 id=&#34;提交更改&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#提交更改&#34;&gt;#&lt;/a&gt; 提交更改&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; commit &lt;span class=&#34;token parameter variable&#34;&gt;-m&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;提交信息&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h3 id=&#34;上传至远程仓库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#上传至远程仓库&#34;&gt;#&lt;/a&gt; 上传至远程仓库&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; push origin &lt;span class=&#34;token string&#34;&gt;&#34;分支名&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h3 id=&#34;查看当前分支&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#查看当前分支&#34;&gt;#&lt;/a&gt; 查看当前分支&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; branch&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h3 id=&#34;修改分支&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#修改分支&#34;&gt;#&lt;/a&gt; 修改分支&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;修改本地分支&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; branch &lt;span class=&#34;token parameter variable&#34;&gt;-m&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;old_branch&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;new_branch&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;删除远程分支&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; push origin :&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;old_branch&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;切换到本地新分支，将本地新分支推到远程&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; checkout &lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;new_branch&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; push --set-upstream origin &lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;new_branch&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;创建新的本地分支&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;//git checkout &lt;span class=&#34;token parameter variable&#34;&gt;-b&lt;/span&gt; 新分支名称 如下&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; checkout &lt;span class=&#34;token parameter variable&#34;&gt;-b&lt;/span&gt; newB&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;合并分支&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; marge newB&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;克隆仓库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#克隆仓库&#34;&gt;#&lt;/a&gt; 克隆仓库&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; clone remote &lt;span class=&#34;token function&#34;&gt;add&lt;/span&gt; origin git@github.com:yourName/repositoryname.git&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h2 id=&#34;github使用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#github使用&#34;&gt;#&lt;/a&gt; Github 使用&lt;/h2&gt;
+</content>
+        <category term="学习" scheme="https://kagurazakaasahi.github.io/categories/study/" />
+        <category term="编程" scheme="https://kagurazakaasahi.github.io/categories/study/%E7%BC%96%E7%A8%8B/" />
+        <updated>2023-02-07T05:58:36.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://kagurazakaasahi.github.io/2023-02-06-%E8%BE%93%E5%85%A5%E6%B3%95%E7%9A%84%E9%80%89%E6%8B%A9/</id>
+        <title>输入法的选择</title>
+        <link rel="alternate" href="https://kagurazakaasahi.github.io/2023-02-06-%E8%BE%93%E5%85%A5%E6%B3%95%E7%9A%84%E9%80%89%E6%8B%A9/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;p&gt;上网冲浪，一个优秀的输入法可以大大提升舒适度，因此咱想分享下咱现在使用的输入法&lt;/p&gt;
+&lt;h1 id=&#34;电脑输入法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#电脑输入法&#34;&gt;#&lt;/a&gt; 电脑输入法&lt;/h1&gt;
+&lt;h2 id=&#34;选择理由&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#选择理由&#34;&gt;#&lt;/a&gt; 选择理由&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;Windows&lt;/code&gt;  系统自带的输入法确实还可以，虽然没有皮肤，但好在外形简洁，不容易腻.&lt;/p&gt;
+&lt;p&gt;但是该输入法还是存在不少 &lt;code&gt;bug&lt;/code&gt; , 平常使用不太能感受到，但遇上时那感觉是十分难受的.&lt;/p&gt;
+&lt;p&gt;具体是什么 bug 这里就不多赘述.&lt;/p&gt;
+&lt;p&gt;在试了网上诸多输入法后咱还是选择了搜狗输入法.&lt;/p&gt;
+&lt;p&gt;作为一款老牌中文输入法，它的不存在什么 bug, 功能十分完善.&lt;/p&gt;
+&lt;p&gt;唯一的缺点就是广告了.&lt;/p&gt;
+&lt;p&gt;这里咱去去网上找到了一个免安装去广告的精简版，&lt;/p&gt;
+&lt;p&gt;那感觉一下子就上来了.&lt;/p&gt;
+&lt;p&gt;并且该输入法还有最多数量的皮肤，这就太舒服的.&lt;/p&gt;
+&lt;p&gt;现在不喜欢花里胡哨了，咱就挑了个比较简洁的.&lt;/p&gt;
+&lt;p&gt;一个字，爽.&lt;/p&gt;
+&lt;h2 id=&#34;个人配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#个人配置&#34;&gt;#&lt;/a&gt; 个人配置&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;修改字体为 &lt;code&gt;MonaFang SC&lt;/code&gt;  (个人用 Manaco 与 PingFang SC Medium 魔改的字体😋)&lt;/li&gt;
+&lt;li&gt;修改皮肤为 &lt;code&gt;【十月】线交集&lt;/code&gt;  (一款简洁风的皮肤)&lt;/li&gt;
+&lt;li&gt;添加自定义短语如: &lt;code&gt;qqm&lt;/code&gt;  (QQ 邮箱), &lt;code&gt;dh&lt;/code&gt;  (电话号码), &lt;code&gt;web&lt;/code&gt;  (个人网站) 等&lt;/li&gt;
+&lt;li&gt;显示候选词改为 8 个，原始的 5 个太短 (任性，谁叫咱有 4k 屏呢&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;展示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#展示&#34;&gt;#&lt;/a&gt; 展示&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;/2023-02-06-%E8%BE%93%E5%85%A5%E6%B3%95%E7%9A%84%E9%80%89%E6%8B%A9/image-20230303193819135.png&#34; class=&#34;&#34; title=&#34;image-20230303193819135&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/2023-02-06-%E8%BE%93%E5%85%A5%E6%B3%95%E7%9A%84%E9%80%89%E6%8B%A9/image-20230303194107333.png&#34; class=&#34;&#34; title=&#34;image-20230303194107333&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;手机输入法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#手机输入法&#34;&gt;#&lt;/a&gt; 手机输入法&lt;/h1&gt;
+&lt;h2 id=&#34;选择理由-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#选择理由-2&#34;&gt;#&lt;/a&gt; 选择理由&lt;/h2&gt;
+&lt;p&gt;手机，作为隐私泄露的重要源头之一，咱还是对国产输入法抱有警戒之心.&lt;/p&gt;
+&lt;p&gt;因此，咱选择了大名鼎鼎的谷歌出品的 &lt;code&gt;Gboard&lt;/code&gt; ,&lt;/p&gt;
+&lt;p&gt;别的不说，就冲它设置多，没啥花里胡哨的功能就给个好评.&lt;/p&gt;
+&lt;h2 id=&#34;个人配置-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#个人配置-2&#34;&gt;#&lt;/a&gt; 个人配置&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;添加语言布局 (咱还是时不时输点日语的)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;改个主题背景&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;字典增加自定义短语&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;将触感调到适中 (这个输入法能调触感太关键了)&lt;/p&gt;
+&lt;h1 id=&#34;下载地址&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#下载地址&#34;&gt;#&lt;/a&gt; 下载地址&lt;/h1&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;搜狗输入法&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly93d3cuaXR0ZWwuY24vYXJjaGl2ZXMvNzc4NS5odG1s&#34; data-background-image=&#34;/images/404.png&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly93d3cuaXR0ZWwuY24vYXJjaGl2ZXMvNzc4NS5odG1s&#34;&gt;搜狗输入法&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;下载&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;item&#34; title=&#34;Gboard&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPWNvbS5nb29nbGUuYW5kcm9pZC5pbnB1dG1ldGhvZC5sYXRpbiZnbD1VUyZwbGk9MQ==&#34; data-background-image=&#34;/images/404.png&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPWNvbS5nb29nbGUuYW5kcm9pZC5pbnB1dG1ldGhvZC5sYXRpbiZnbD1VUyZwbGk9MQ==&#34;&gt;Gboard&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;下载&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;
+</content>
+        <category term="分享" scheme="https://kagurazakaasahi.github.io/categories/share/" />
+        <category term="软件" scheme="https://kagurazakaasahi.github.io/categories/share/softwore/" />
+        <category term="软件" scheme="https://kagurazakaasahi.github.io/tags/%E8%BD%AF%E4%BB%B6/" />
+        <updated>2023-02-05T18:04:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://kagurazakaasahi.github.io/%E5%88%9B%E5%BB%BA%E6%96%87%E7%AB%A0%E6%97%B6%E6%89%93%E5%BC%80%E6%96%87%E7%AB%A0/</id>
+        <title>hexo命令创建文章同时时打开文章</title>
+        <link rel="alternate" href="https://kagurazakaasahi.github.io/%E5%88%9B%E5%BB%BA%E6%96%87%E7%AB%A0%E6%97%B6%E6%89%93%E5%BC%80%E6%96%87%E7%AB%A0/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;p&gt;在 &lt;code&gt;hexo&lt;/code&gt;  中，常常使用 &lt;code&gt;hexo n &#39;文章名字&#39;&lt;/code&gt;  来创建文章，可是该命令创建完文章后并不会打开，仍需到 &lt;code&gt;source&lt;/code&gt;  文件夹找到新创建的文章打开编辑。这十分不方便.&lt;/p&gt;
+&lt;p&gt;作为懒癌，肯定不能就这样.&lt;/p&gt;
+&lt;p&gt;根据 &lt;code&gt;hexo&lt;/code&gt;  官方文档，解决办法很简单，在 &lt;code&gt;root&lt;/code&gt;  文件夹下新建一个 &lt;code&gt;scripts&lt;/code&gt;  文件夹，然后在该文件夹下创建一个 &lt;code&gt;名字任意的.js&lt;/code&gt;  文件即可.&lt;/p&gt;
+&lt;p&gt;打开文件然后复制以下代码&lt;/p&gt;
+&lt;figure class=&#34;highlight js&#34;&gt;&lt;figcaption data-lang=&#34;JavaScript&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;var&lt;/span&gt; spawn &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;require&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;child_process&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;exec&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;// Hexo 2.x 用户复制这段&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;on&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;new&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;function&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token parameter&#34;&gt;path&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token function&#34;&gt;spawn&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;start  &#34;markdown编辑器绝对路径.exe&#34; &#39;&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt; path&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;// Hexo 3 用户复制这段&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;on&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;new&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;function&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token parameter&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token function&#34;&gt;spawn&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;start  &#34;markdown编辑器绝对路径.exe&#34; &#39;&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt; data&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;path&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;保存并退出脚本后，继续之前的命令 &lt;code&gt;hexo n &#39;文章名字&#39;&lt;/code&gt; , 可以发现，在创建文章后可以自动打开了！&lt;/p&gt;
+</content>
+        <category term="杂谈" scheme="https://kagurazakaasahi.github.io/categories/talk/" />
+        <category term="博客" scheme="https://kagurazakaasahi.github.io/categories/talk/blog/" />
+        <category term="hexo" scheme="https://kagurazakaasahi.github.io/tags/hexo/" />
+        <updated>2023-02-05T07:14:20.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://kagurazakaasahi.github.io/2023-02-04-%E5%85%B3%E4%BA%8EWindows%E7%B3%BB%E7%BB%9F%E6%96%87%E5%AD%97%E6%98%BE%E7%A4%BA%E7%9A%84%E4%BA%8C%E4%B8%89%E4%BA%8B/</id>
+        <title>关于Windows系统文字显示的二三事</title>
+        <link rel="alternate" href="https://kagurazakaasahi.github.io/2023-02-04-%E5%85%B3%E4%BA%8EWindows%E7%B3%BB%E7%BB%9F%E6%96%87%E5%AD%97%E6%98%BE%E7%A4%BA%E7%9A%84%E4%BA%8C%E4%B8%89%E4%BA%8B/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;p&gt;刚刚逛论坛回答了一位坛友 &lt;code&gt;4k&lt;/code&gt;  显示器下字体的选择，正好借此机会谈谈咱的看法&lt;/p&gt;
+&lt;h2 id=&#34;存在问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#存在问题&#34;&gt;#&lt;/a&gt; 存在问题&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;Windows&lt;/code&gt;  系统自带的微软雅黑字体自 &lt;code&gt;1997年7月18日&lt;/code&gt; 发行起已经沿用二十五年，期间显示设备发展迅速。显然，这款字体即使经过优化更新，但还是适应不了当今的显示设备，尤其是 &lt;code&gt;4k&lt;/code&gt;  显示器，加之 &lt;code&gt;Windows&lt;/code&gt;  系统对字体糟糕的渲染产生的锯齿，可所谓惨不忍睹.&lt;/p&gt;
+&lt;h2 id=&#34;解决办法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解决办法&#34;&gt;#&lt;/a&gt; 解决办法&lt;/h2&gt;
+&lt;h3 id=&#34;修改系统字体&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#修改系统字体&#34;&gt;#&lt;/a&gt; 修改系统字体&lt;/h3&gt;
+&lt;p&gt;在网上查询到的大多数修改系统字体的方法都是修改注册表，这种方式不仅麻烦，对小白不友好，而且就算对老鸟来说，也不想轻易修改注册表。好在面对字体问题的不只是咱们，日本有位老哥就开发了个比较好的软件，可以方便的更改操作系统字体.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Github&lt;/code&gt;  地址如下，从名字就可以看出来他对字体的愤怒了😂&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL1RhdHN1LXN5by9ub01laXJ5b1VJ&#34;&gt;Tatsu-syo/noMeiryoUI: No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11. (github.com)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;没啥好说的，解压即用&lt;/p&gt;
+&lt;h3 id=&#34;挑选系统字体&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#挑选系统字体&#34;&gt;#&lt;/a&gt; 挑选系统字体&lt;/h3&gt;
+&lt;p&gt;这个本来没啥好说的，看自己喜好，不过好的字体确实挺难找的。咱之前使用的字体为 &lt;code&gt;Monaco&lt;/code&gt; ，苹果出品的一款字体，字体浑圆饱满，可以满足分清 &lt;code&gt;0&lt;/code&gt;  和 &lt;code&gt;O&lt;/code&gt;  等编程字体基本要求。这是在看翁凯老师的 c 语言课时发现的，咱一下就喜欢上了。但是，这是一款英文字体，不包含中文。因此显示中文那就是依托答辩，之前都整算法不怎么敲中文也就凑合，但中文多了就忍不了。因此咱就魔改了一下😋。&lt;/p&gt;
+&lt;p&gt;魔改方式&lt;/p&gt;
+&lt;p&gt;1. 找到一款比较合适的中文字体 -- 又是苹果的苹方中等 (果味十足啊)&lt;/p&gt;
+&lt;p&gt;2. 使用字体设计软件 &lt;code&gt;fontcreator&lt;/code&gt;  将中文字体的英文字母用 &lt;code&gt;Monaco&lt;/code&gt;  字体的英文覆盖&lt;/p&gt;
+&lt;p&gt;3. 改个好名字导出成自己专用的字体了&lt;/p&gt;
+&lt;p&gt;咱的字体由 &lt;code&gt;Monaco&lt;/code&gt;  和 &lt;code&gt;PingFang SC&lt;/code&gt;  组成，咱就叫它 &lt;code&gt;MonaFang SC&lt;/code&gt;  了，也就是 &lt;code&gt;莫娜方&lt;/code&gt; ，有点奇怪的名字 &lt;code&gt;o(*￣︶￣*)o&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;加强系统渲染&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#加强系统渲染&#34;&gt;#&lt;/a&gt; 加强系统渲染&lt;/h3&gt;
+&lt;p&gt;正如之前所述， &lt;code&gt;Windows&lt;/code&gt;  系统对字体的渲染这方面十分不行，因此咱们要用 &lt;code&gt;MacType&lt;/code&gt;  这款软件加强一下 (别问咱为什么又是苹果，以后有钱了再整个 &lt;code&gt;Mac&lt;/code&gt;  来).&lt;/p&gt;
+&lt;p&gt;官网如下&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubWFjdHlwZS5uZXQv&#34;&gt;MacType - The way texts should be&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;下载安装找个舒服的渲染文字方式即可！&lt;/p&gt;
+&lt;h3 id=&#34;字体展示及文件下载&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#字体展示及文件下载&#34;&gt;#&lt;/a&gt; 字体展示及文件下载&lt;/h3&gt;
+&lt;h4 id=&#34;pingfang-sc-medium&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#pingfang-sc-medium&#34;&gt;#&lt;/a&gt; PingFang SC Medium&lt;/h4&gt;
+&lt;p&gt;&lt;img data-src=&#34;/2023-02-04-%E5%85%B3%E4%BA%8EWindows%E7%B3%BB%E7%BB%9F%E6%96%87%E5%AD%97%E6%98%BE%E7%A4%BA%E7%9A%84%E4%BA%8C%E4%B8%89%E4%BA%8B/image-20230304214024951.png&#34; class=&#34;&#34; title=&#34;image-20230304214024951&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;PingFang SC Medium&#34; style=&#34;--block-color:#9d5b8b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly93d3RhLmxhbnpvdWIuY29tL2ljSGd2MHA4bXJoYQ==&#34; data-background-image=&#34;/images/404.png&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly93d3RhLmxhbnpvdWIuY29tL2ljSGd2MHA4bXJoYQ==&#34;&gt;PingFang SC Medium&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;蓝奏云下载&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;h4 id=&#34;monaco&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#monaco&#34;&gt;#&lt;/a&gt; Monaco&lt;/h4&gt;
+&lt;p&gt;&lt;img data-src=&#34;/2023-02-04-%E5%85%B3%E4%BA%8EWindows%E7%B3%BB%E7%BB%9F%E6%96%87%E5%AD%97%E6%98%BE%E7%A4%BA%E7%9A%84%E4%BA%8C%E4%B8%89%E4%BA%8B/image-20230304214141919.png&#34; class=&#34;&#34; title=&#34;image-20230304214141919&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;Monaco&#34; style=&#34;--block-color:#9d5b8b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly93d3RhLmxhbnpvdWIuY29tL2l2anRnMHA4bXF4YQ==&#34; data-background-image=&#34;/images/404.png&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly93d3RhLmxhbnpvdWIuY29tL2l2anRnMHA4bXF4YQ==&#34;&gt;Monaco&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;蓝奏云下载&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;h4 id=&#34;monafang-sc&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#monafang-sc&#34;&gt;#&lt;/a&gt; MonaFang SC&lt;/h4&gt;
+&lt;p&gt;&lt;img data-src=&#34;/2023-02-04-%E5%85%B3%E4%BA%8EWindows%E7%B3%BB%E7%BB%9F%E6%96%87%E5%AD%97%E6%98%BE%E7%A4%BA%E7%9A%84%E4%BA%8C%E4%B8%89%E4%BA%8B/image-20230304214240948.png&#34; class=&#34;&#34; title=&#34;image-20230304214240948&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;MonaFang SC&#34; style=&#34;--block-color:#9d5b8b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly93d3RhLmxhbnpvdWIuY29tL2lBYjhtMHA4bXJjZg==&#34; data-background-image=&#34;/images/404.png&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly93d3RhLmxhbnpvdWIuY29tL2lBYjhtMHA4bXJjZg==&#34;&gt;MonaFang SC&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;蓝奏云下载&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;h4 id=&#34;标小智龙珠体&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#标小智龙珠体&#34;&gt;#&lt;/a&gt; 标小智龙珠体&lt;/h4&gt;
+&lt;p&gt;&lt;img data-src=&#34;/2023-02-04-%E5%85%B3%E4%BA%8EWindows%E7%B3%BB%E7%BB%9F%E6%96%87%E5%AD%97%E6%98%BE%E7%A4%BA%E7%9A%84%E4%BA%8C%E4%B8%89%E4%BA%8B/image-20230304214426218.png&#34; class=&#34;&#34; title=&#34;image-20230304214426218&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;标小智龙珠体&#34; style=&#34;--block-color:#9d5b8b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly93d3RhLmxhbnpvdWIuY29tL2lEYU82MHA4bXJrZA==&#34; data-background-image=&#34;/images/404.png&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly93d3RhLmxhbnpvdWIuY29tL2lEYU82MHA4bXJrZA==&#34;&gt;标小智龙珠体&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;蓝奏云下载&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;
+</content>
+        <category term="杂谈" scheme="https://kagurazakaasahi.github.io/categories/talk/" />
+        <category term="软件" scheme="https://kagurazakaasahi.github.io/categories/talk/softwore/" />
+        <updated>2023-02-03T20:28:56.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://kagurazakaasahi.github.io/2023-02-04-%E5%8F%AF%E7%90%86%E8%A7%A3%E6%80%A7%E8%BE%93%E5%85%A5/</id>
+        <title>可理解性输入</title>
+        <link rel="alternate" href="https://kagurazakaasahi.github.io/2023-02-04-%E5%8F%AF%E7%90%86%E8%A7%A3%E6%80%A7%E8%BE%93%E5%85%A5/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;p&gt;放假一直在琢磨第二外语 (日语) 一事，有不小收获.&lt;/p&gt;
+&lt;h2 id=&#34;需要去背外语单词吗&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#需要去背外语单词吗&#34;&gt;#&lt;/a&gt; 需要去背外语单词吗&lt;/h2&gt;
+&lt;p&gt;不需要，也没必要，更没用。学任何语言都是如此。&lt;br /&gt;
+接触多了，熟悉了，自然也就记得了。&lt;br /&gt;
+学习语言需要的就不是 “记忆”，而是 “理解”, 也就是可理解性输入。&lt;/p&gt;
+&lt;h2 id=&#34;什么是可理解性输入&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么是可理解性输入&#34;&gt;#&lt;/a&gt; 什么是可理解性输入&lt;/h2&gt;
+&lt;p&gt;“可理解性输入”，往你脑袋输入越多你能理解的，搞懂越多你不能理解的，你学会的可能性越高。&lt;br /&gt;
+单词记再多，不理解的依旧不理解；而不理解，则你永远也学不会。&lt;br /&gt;
+听力也不是你记记单词就会了，而是需要锻炼你的耳朵。&lt;br /&gt;
+这是种 “条件反射”，是种 “生理现象”，是种 “习惯”。需要长期的锻炼形成条件反射 ———“声音→耳朵→大脑 (理解)”。&lt;br /&gt;
+举个简单的例子，&lt;br /&gt;
+①さかな→鱼→理解。×&lt;br /&gt;
+②“さかな→理解。      √&lt;br /&gt;
+㈠&lt;br /&gt;
+①的理解方式是错的，也是一般人常用的记忆单词的方式。②才是正确的。&lt;br /&gt;
+当然，“さかな” 过于简单了，日语也可写成 “魚”。看着问题不大。&lt;br /&gt;
+但把 “さかな” 换成 “fish (英语)、面倒、都合、木漏れ日、等等” 呢？。问题就会被逐渐放大。&lt;br /&gt;
+当存在一词多义，外语单词的意思逐渐难与母语对应，外语单词所表达的意思越来越抽象等等，你又该如何呢？&lt;br /&gt;
+这些显然，就不是记忆单词，记单词与母语对应意思就能搞定的。&lt;br /&gt;
+如：始まる、始める，都叫 “开始”。但就是存在不同，你只能去 “理解”。&lt;br /&gt;
+㈡&lt;br /&gt;
+而像①将 “外语→母语→理解”，这看似无懈可击的理解方式、记忆方式。&lt;br /&gt;
+但其存有一个致命缺陷 ———“理解速度跟不上”。而这会直接 “影响听力”。&lt;br /&gt;
+而这点，光看纸面上的文字，并不易察觉。因为人类的视觉处理信息的能力，远高于听觉。&lt;br /&gt;
+但换到听觉上 (听力上)，你就会发现，即使一句话，所有单词你都记得，你也依旧听不懂、不能轻易听懂。&lt;br /&gt;
+这除了生理上还不习惯外，还涉及到一个 “发音” 与 “节奏” 的问题。&lt;br /&gt;
+⑴你如何保证你记下的 “发音”，是实际的 “发音” 呢？&lt;br /&gt;
+这点儿在日语可能没啥问题，但在英语里的话，咱就只能呵呵了。&lt;br /&gt;
+⑵错误的理解方式，会造成理解速度跟不上，即节奏也跟不上。节奏跟不上，那么即便一句话，所有单词你都记得，但你也依旧听不懂、不能轻易听懂。&lt;br /&gt;
+而一句话是如此，一段话更是如此，等等。&lt;/p&gt;
+&lt;h2 id=&#34;结论&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#结论&#34;&gt;#&lt;/a&gt; 结论&lt;/h2&gt;
+&lt;p&gt;说白了，就一句话，记单词，并不能帮你轻易理解外语单词的实际意思。你只是把外语单词的意思找个母语单词作对应而已。而这是有局限性的。&lt;br /&gt;
+外语单词所表达的概念超出了母语的范围，你就懵逼了。&lt;br /&gt;
+外语单词所表达的概念，需要母语用多个单词的意思去对应。你也会懵逼。直观表现就是听力上，你的理解会跟不上。&lt;br /&gt;
+说到底两种不同的语言，所表达出来的概念，更多的是类似。而不是完全相同。&lt;br /&gt;
+两种不同的语言，本质上是世界观的不同，对世界观察的角度不同、理解不同。&lt;br /&gt;
+你拿汉语去框日语，框到最后你会发现还是有局限的。&lt;br /&gt;
+所以需要的是 “理解”，通过理解一门新的语言，去重新理解、重新构筑一个新的 “世界”。&lt;br /&gt;
+而不是单纯的拿母语去套，那说到底就是有局限的。&lt;br /&gt;
+母语只是辅助你去学习外语而已，只是个辅助轮。当你学会外语后，自可拆了辅助轮。所以不要把母语，当成理解外语不可少的一环。这会把你困死在母语的思维里，很难真正去理解外语、学会外语。&lt;/p&gt;
+&lt;h2 id=&#34;个人体会&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#个人体会&#34;&gt;#&lt;/a&gt; 个人体会&lt;/h2&gt;
+&lt;p&gt;咕咕咕......&lt;/p&gt;
+</content>
+        <category term="学习" scheme="https://kagurazakaasahi.github.io/categories/study/" />
+        <category term="语言" scheme="https://kagurazakaasahi.github.io/categories/study/language/" />
+        <updated>2023-02-03T20:28:56.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://kagurazakaasahi.github.io/date%202023-02-02%20180850/</id>
+        <title>博客搭建教程</title>
+        <link rel="alternate" href="https://kagurazakaasahi.github.io/date%202023-02-02%20180850/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;p&gt;如题.&lt;/p&gt;
+&lt;p&gt;由于作者的使用方法并未描述详细，&lt;/p&gt;
+&lt;p&gt;姑且还是踩了不少坑的 /(ㄒ o ㄒ)/~~.&lt;/p&gt;
+&lt;p&gt;抽时间好好整理一下使用方法吧:-)&lt;/p&gt;
+&lt;p&gt;先码个&lt;/p&gt;
+&lt;p&gt;目录&lt;/p&gt;
+&lt;p&gt;等咱慢慢补&lt;/p&gt;
+&lt;h1 id=&#34;本地搭建hexo&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#本地搭建hexo&#34;&gt;#&lt;/a&gt; 本地搭建 Hexo&lt;/h1&gt;
+&lt;h2 id=&#34;安装nodejs&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装nodejs&#34;&gt;#&lt;/a&gt; 安装 nodejs&lt;/h2&gt;
+&lt;h2 id=&#34;安装git&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装git&#34;&gt;#&lt;/a&gt; 安装 git&lt;/h2&gt;
+&lt;h2 id=&#34;将hexo部署至本地&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#将hexo部署至本地&#34;&gt;#&lt;/a&gt; 将 hexo 部署至本地&lt;/h2&gt;
+&lt;h4 id=&#34;参考链接&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#参考链接&#34;&gt;#&lt;/a&gt; 参考链接&lt;/h4&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMW1VNHkxajcybi8/cD01JmFtcDtzcG1faWRfZnJvbT00NDQuNDEudG9wX3JpZ2h0X2Jhcl93aW5kb3dfaGlzdG9yeS5jb250ZW50LmNsaWNr&#34;&gt;发布博客到互联网_哔哩哔哩_bilibili&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;部署至github-page&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#部署至github-page&#34;&gt;#&lt;/a&gt; 部署至 Github page&lt;/h1&gt;
+&lt;h2 id=&#34;注册github-page&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#注册github-page&#34;&gt;#&lt;/a&gt; 注册 Github page&lt;/h2&gt;
+&lt;h2 id=&#34;将hexo部署至github-page&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#将hexo部署至github-page&#34;&gt;#&lt;/a&gt; 将 hexo 部署至 GitHub page&lt;/h2&gt;
+&lt;h4 id=&#34;参考链接-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#参考链接-2&#34;&gt;#&lt;/a&gt; 参考链接&lt;/h4&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMW1VNHkxajcybi8/cD01JmFtcDtzcG1faWRfZnJvbT00NDQuNDEudG9wX3JpZ2h0X2Jhcl93aW5kb3dfaGlzdG9yeS5jb250ZW50LmNsaWNr&#34;&gt;发布博客到互联网_哔哩哔哩_bilibili&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;shoka主题应用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#shoka主题应用&#34;&gt;#&lt;/a&gt; shoka 主题应用&lt;/h1&gt;
+&lt;h2 id=&#34;主题下载&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#主题下载&#34;&gt;#&lt;/a&gt; 主题下载&lt;/h2&gt;
+&lt;h3 id=&#34;快速安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#快速安装&#34;&gt;#&lt;/a&gt; 快速安装&lt;/h3&gt;
+&lt;p&gt;在博客根目录打开 git bash 输入以下代码&lt;/p&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# cd your-blog&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; clone https://github.com/amehime/hexo-theme-shoka.git ./themes/shoka&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;打开主题目录，内有 &lt;code&gt;example&lt;/code&gt;  文件夹，提供了配置文件的 demo 供参考。&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;如果初次接触强烈建议粗略看完 example 文件夹下所有文件，对之后的设置十分有帮助&lt;/p&gt;
+&lt;/div&gt;
+&lt;h4 id=&#34;参考链接-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#参考链接-3&#34;&gt;#&lt;/a&gt; 参考链接&lt;/h4&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy8=&#34;&gt;Hexo 主题 Shoka &amp;amp; multi-markdown-it 渲染器使用说明 - Theme Shoka Documentation - 二进制杂谈 - 计算机科学 | Yume Shoka = 優萌初華 = 有夢書架 (lostyu.me)&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;基本配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基本配置&#34;&gt;#&lt;/a&gt; 基本配置&lt;/h2&gt;
+&lt;h3 id=&#34;基本配置-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基本配置-2&#34;&gt;#&lt;/a&gt; 基本配置&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9jb25maWcv&#34;&gt;Step.2 基本配置 - Theme Shoka Documentation - 二进制杂谈 - 计算机科学 | Yume Shoka = 優萌初華 = 有夢書架 (lostyu.me)&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;插件安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#插件安装&#34;&gt;#&lt;/a&gt; 插件安装&lt;/h3&gt;
+&lt;h4 id=&#34;安装插件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装插件&#34;&gt;#&lt;/a&gt; 安装插件&lt;/h4&gt;
+&lt;h4 id=&#34;multi-markdown-it配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#multi-markdown-it配置&#34;&gt;#&lt;/a&gt; multi-markdown-it 配置&lt;/h4&gt;
+&lt;h4 id=&#34;autoprefixer配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#autoprefixer配置&#34;&gt;#&lt;/a&gt; autoprefixer 配置&lt;/h4&gt;
+&lt;h4 id=&#34;algolia配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#algolia配置&#34;&gt;#&lt;/a&gt; algolia 配置&lt;/h4&gt;
+&lt;h4 id=&#34;feed配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#feed配置&#34;&gt;#&lt;/a&gt; feed 配置&lt;/h4&gt;
+&lt;h4 id=&#34;参考链接-4&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#参考链接-4&#34;&gt;#&lt;/a&gt; 参考链接&lt;/h4&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9kZXBlbmRlbnRzLw==&#34;&gt;Step.1 依赖插件 - Theme Shoka Documentation - 二进制杂谈 - 计算机科学 | Yume Shoka = 優萌初華 = 有夢書架 (lostyu.me)&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;界面显示&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#界面显示&#34;&gt;#&lt;/a&gt; 界面显示&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9kaXNwbGF5Lw==&#34;&gt;Step.3 界面显示 - Theme Shoka Documentation - 二进制杂谈 - 计算机科学 | Yume Shoka = 優萌初華 = 有夢書架 (lostyu.me)&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;特殊功能&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#特殊功能&#34;&gt;#&lt;/a&gt; 特殊功能&lt;/h3&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9zcGVjaWFsLw==&#34;&gt;Step.4 主题特殊功能 - Theme Shoka Documentation - 二进制杂谈 - 计算机科学 | Yume Shoka = 優萌初華 = 有夢書架 (lostyu.me)&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;额外功能补全&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#额外功能补全&#34;&gt;#&lt;/a&gt; 额外功能补全&lt;/h1&gt;
+&lt;h2 id=&#34;咕咕咕&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#咕咕咕&#34;&gt;#&lt;/a&gt; 咕咕咕&lt;/h2&gt;
+&lt;h2 id=&#34;定时自动更新部署&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#定时自动更新部署&#34;&gt;#&lt;/a&gt; 定时自动更新部署&lt;/h2&gt;
+&lt;p&gt;通过系统计划任务定时更新本地博客部署至 Github page&lt;/p&gt;
+&lt;p&gt;在 &lt;code&gt;root&lt;/code&gt;  目录下新建 txt 文本文件，并写入如下内容&lt;/p&gt;
+&lt;figure class=&#34;highlight shell&#34;&gt;&lt;figcaption data-lang=&#34;Bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token shebang important&#34;&gt;#!/bin/sh&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo clean &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; hexo g &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; hexo d&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token builtin class-name&#34;&gt;exec&lt;/span&gt; /bin/bash&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;右键将后缀名改为 &lt;code&gt;.sh&lt;/code&gt; , 双击该文件即可更新部署&lt;/p&gt;
+&lt;details class=&#34;success&#34;&gt;&lt;summary&gt;更新&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;大佬有更好的方法&lt;/p&gt;
+&lt;p&gt;采用 Github 自动部署，只需更新源码到仓库即可自动部署&lt;/p&gt;
+&lt;p&gt;方法参见&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ha2lsYXIudG9wL3Bvc3RzL2Y3NTJjODZkLw==&#34;&gt;使用 Github Action 实现全自动部署 | Akilar の糖果屋&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;h2 id=&#34;修复音乐播放器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#修复音乐播放器&#34;&gt;#&lt;/a&gt; 修复音乐播放器&lt;/h2&gt;
+&lt;p&gt;错误原因：主题自带音乐播放器由于 &lt;code&gt;api&lt;/code&gt;  接口失效无法使用&lt;/p&gt;
+&lt;p&gt;解决办法：修改接口才能使音乐播放器正常工作&lt;/p&gt;
+&lt;p&gt;打开 &lt;code&gt;root\themes\shoka\source\js\_app\player.js&lt;/code&gt;  文件&lt;/p&gt;
+&lt;p&gt;在大概 69 行左右找到 &lt;code&gt;https://api.i-meto.com/meting/api?server=&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;将其改为 &lt;code&gt;https://api.injahow.cn/meting/?server=&lt;/code&gt;  即可&lt;/p&gt;
+&lt;h2 id=&#34;修复图片加载&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#修复图片加载&#34;&gt;#&lt;/a&gt; 修复图片加载&lt;/h2&gt;
+&lt;p&gt;错误原因：博客主题默认图床添加了防盗链，故无法使用&lt;/p&gt;
+&lt;p&gt;解决办法：换个图床&lt;/p&gt;
+&lt;p&gt;找一个稳定加载快的图床上传所需背景图，我这里以&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wb3N0aW1hZ2VzLm9yZy8=&#34;&gt; Postimages — 免费图片托管 / 图片上传&lt;/span&gt;为例&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/date%202023-02-02%20180850/1111111111-16781767353132.png&#34; class=&#34;&#34; width=&#34;1111111111&#34;&gt;&lt;/p&gt;
+&lt;p&gt;删除 &lt;code&gt;root\source\_data\_images.yml&lt;/code&gt;  内原有代码后将图片链接复制里面，由于必须要符合 YAML 语法规则，每个图片链接前必须为 &lt;code&gt;-  &lt;/code&gt; ，即 &lt;code&gt;- https://i.postimg.cc/g2YP5tkC/image.png&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;故须大批量修改链接格式&lt;/p&gt;
+&lt;p&gt;为了方便，我们这里直接将链接复制到 excel 表格内&lt;/p&gt;
+&lt;p&gt;如图操作&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/date%202023-02-02%20180850/2222222222-16781767571816.png&#34; class=&#34;&#34; width=&#34;2222222222&#34;&gt;&lt;/p&gt;
+&lt;p&gt;得到修改后代码&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/date%202023-02-02%20180850/3333333333-16781767654338.png&#34; class=&#34;&#34; width=&#34;3333333333&#34;&gt;&lt;/p&gt;
+&lt;p&gt;复制进 &lt;code&gt;root\source\_data\images.yml&lt;/code&gt;  即可&lt;/p&gt;
+&lt;h2 id=&#34;错误解决方法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#错误解决方法&#34;&gt;#&lt;/a&gt; 错误解决方法&lt;/h2&gt;
+&lt;h3 id=&#34;部署过程中可能会出现的错误&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#部署过程中可能会出现的错误&#34;&gt;#&lt;/a&gt; 部署过程中可能会出现的错误&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;Error: Spawn failed
+    at ChildProcess.&amp;lt;anonymous&amp;gt; (D:\Blog\node_modules\hexo-util\lib\spawn.js:51:21)
+    at ChildProcess.emit (node:events:513:28)
+    at cp.emit (D:\Blog\node_modules\cross-spawn\lib\enoent.js:34:29)
+    at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;错误原因:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;文件配置错误，好好检查文件内容完整性及语法&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;解决方式一&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解决方式一&#34;&gt;#&lt;/a&gt; 解决方式一：&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;##进入站点根目录
+cd /usr/local/src/hexo/hanyubolg/
+
+##删除git提交内容文件夹
+rm -rf .deploy_git/
+
+##执行
+git config --global core.autocrlf false
+
+##最后
+hexo clean &amp;amp;&amp;amp; hexo g &amp;amp;&amp;amp; hexo d
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;解决方式二有可能是git-repo配置地址不正确可以将http方式变更为ssh方式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解决方式二有可能是git-repo配置地址不正确可以将http方式变更为ssh方式&#34;&gt;#&lt;/a&gt; 解决方式二：有可能是 git repo 配置地址不正确，可以将 http 方式变更为 ssh 方式&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;##进入站点根目录
+cd /usr/local/src/hexo/hanyubolg/
+
+##删除git提交内容文件夹
+vim _config.yml
+
+##修改
+deploy:
+
+type: git
+
+repo: https://github.com/yourname/yourname.github.io.git -&amp;gt; git@github.com:a956551943/weixiaohui.github.io.git
+
+branch: master
+
+##最后
+hexo clean &amp;amp;&amp;amp; hexo g &amp;amp;&amp;amp; hexo d
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;解决方式三不建议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解决方式三不建议&#34;&gt;#&lt;/a&gt; 解决方式三：不建议&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;##进入站点根目录
+cd /usr/local/src/hexo/hanyubolg/
+
+##进入depoly文件夹
+cd .deploy_git/
+
+##强制推送
+git push -f
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;文件渲染错误&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文件渲染错误&#34;&gt;#&lt;/a&gt; 文件渲染错误&lt;/h3&gt;
+&lt;p&gt;本地创建的 md 文件最顶部为 Front-matter&lt;/p&gt;
+&lt;p&gt;为 “---” 分割出的一片区域，内部可以添加文章的各种设置，如 tags，时间，标题及是否置顶等。&lt;/p&gt;
+&lt;p&gt;值得注意的是，每个设置都由设置名 + 冒号 + 空格 + 设置内容组成&lt;/p&gt;
+&lt;p&gt;如果格式不正确会导致渲染出现问题&lt;/p&gt;
+&lt;p&gt;如本文 Front-matter 为&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;title: 一些错误及解决方法(二)
+date: 2023-02-02 14:58:17
+tags:
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;如果将其写成&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;title:一些错误及解决方法(二) //没有空格
+date:2023-02-02 14:58:17 //没有空格
+tags:
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;将会出现渲染错误如下&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[master 416200e] Site updated: 2023-02-02 14:50:49
+ 14 files changed, 767 insertions(+), 97 deletions(-)
+ create mode 100644 &amp;quot;\345\205\254\345\221\212/index.html&amp;quot;
+fatal: unable to access &#39;https://github.com/KagurazakaAsahi/KagurazakaAsahi.github.io.git/&#39;: Recv failure: Connection was reset
+FATAL Something&#39;s wrong. Maybe you can find the solution here: https://hexo.io/docs/troubleshooting.html
+Error: Spawn failed
+    at ChildProcess.&amp;lt;anonymous&amp;gt; (D:\Blog\node_modules\hexo-util\lib\spawn.js:51:21)
+    at ChildProcess.emit (node:events:513:28)
+    at cp.emit (D:\Blog\node_modules\cross-spawn\lib\enoent.js:34:29)
+    at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;yaml 配置文件对语法格式要求很高&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;categories-map使用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#categories-map使用&#34;&gt;#&lt;/a&gt; categories map 使用&lt;/h3&gt;
+&lt;p&gt;这是一个映射表，将一个 category 名称映射为另一个，在这里主要作用是将中文的 categories 映射成英文方便在路径中显示&lt;/p&gt;
+&lt;p&gt;因此使用方式是&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;博客 front-matter 上填入中文的 category 名称&lt;/li&gt;
+&lt;li&gt;经过 categories map 映射成英文&lt;/li&gt;
+&lt;li&gt;以映射后的英文作为路径使用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;note danger&#34;&gt;
+&lt;p&gt;别弄反了&lt;/p&gt;
+&lt;/div&gt;
+</content>
+        <category term="杂谈" scheme="https://kagurazakaasahi.github.io/categories/talk/" />
+        <category term="博客" scheme="https://kagurazakaasahi.github.io/categories/talk/blog/" />
+        <category term="日常" scheme="https://kagurazakaasahi.github.io/tags/%E6%97%A5%E5%B8%B8/" />
+        <category term="hexo" scheme="https://kagurazakaasahi.github.io/tags/hexo/" />
+        <updated>2023-02-02T10:08:50.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://kagurazakaasahi.github.io/HC550/</id>
+        <title>洗牙&amp;HC550</title>
+        <link rel="alternate" href="https://kagurazakaasahi.github.io/HC550/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;p&gt;今天抽时间去牙医那洗了下牙，果然就算认真刷牙，牙菌斑或牙结石也是在所难免的。&lt;/p&gt;
+&lt;p&gt;之前矫正牙齿时也洗过一次，不过这次体验更好了点。&lt;/p&gt;
+&lt;p&gt;首先先拿一瓶液体 (应该是漱口水，味道不错) 漱口，然后医生就拿那个水枪喷牙齿。&lt;/p&gt;
+&lt;p&gt;清洗过程主要是拿超声波水枪对着牙结石喷，然后稍有酸痛感 (都出血了能不酸痛吗)，整个过程持续了半小时左右。&lt;/p&gt;
+&lt;p&gt;清洁效果还是不错的，据说口气很大一部分都是牙结石的锅。&lt;/p&gt;
+&lt;p&gt;而每年洗一次牙，清洗掉牙结石，可以有效缓解牙龈炎的症状。&lt;/p&gt;
+&lt;p&gt;PS. 牙医好赚钱啊，一趟花了咱 150￥&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;pdd 上购入的 &amp;quot;全新联保 5 年 HC550&amp;quot; 到祸了&lt;/p&gt;
+&lt;p&gt;拆开快递就感觉不对劲&lt;/p&gt;
+&lt;p&gt;细说问题:&lt;br /&gt;
+&lt;img data-src=&#34;/HC550/IMG_20230202_193407.jpg&#34; class=&#34;&#34; title=&#34;IMG_20230202_193407&#34;&gt;&lt;/p&gt;
+&lt;p&gt;首先盘体最上方条码部分应为西数 logo&lt;/p&gt;
+&lt;p&gt;然后，虽然是工包盘，但内部还是不应该有红标&lt;/p&gt;
+&lt;p&gt;最后通过 SN 码在官网查询质保时间&lt;br /&gt;
+ &lt;img data-src=&#34;/HC550/Snipaste_2023-02-02_19-30-06.png&#34; class=&#34;&#34; title=&#34;Snipaste_2023-02-02_19-30-06&#34;&gt;&lt;/p&gt;
+&lt;p&gt;好家伙，25 年 12 月，这就是五年质保😂&lt;/p&gt;
+&lt;p&gt;退货去了，电子产品购买需谨慎，特别是 pdd 等非官方店铺&lt;/p&gt;
+</content>
+        <category term="日常" scheme="https://kagurazakaasahi.github.io/categories/daily/" />
+        <category term="日常" scheme="https://kagurazakaasahi.github.io/tags/%E6%97%A5%E5%B8%B8/" />
+        <updated>2023-02-02T10:02:40.000Z</updated>
+    </entry>
+</feed>
